@@ -1,5 +1,5 @@
 
-#iPad for business purposes
+# iPad for business purposes
 
 The iPad will never be as useful as a work laptop. However, it can be a helpful tool if it's accessorized with a **Keyboard & Stylus**.
 
