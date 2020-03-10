@@ -34,7 +34,7 @@ Starting price: $10/month for one user
 
 ```
 
-## Box — Cloud Content Management
+## Box - Cloud Content Management
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Box%2C_Inc._logo.svg/langfr-560px-Box%2C_Inc._logo.svg.png)
 ```
