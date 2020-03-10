@@ -51,3 +51,10 @@ Using this application will make it easier to write code since the platform is b
 
 Price: *Swift is free and open source**
 
+## Evernote
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Evernote.svg/langfr-220px-Evernote.svg.png)
+
+Evernote is a cross-platform app that is used for various purposes. For starters, it can store all of your files; it’s equipped for different note tools; it has a task or project system, and many more features. 
+
+Starting price: $15/month for one user
