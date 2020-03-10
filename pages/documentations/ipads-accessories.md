@@ -1,7 +1,7 @@
 
 Source: https://www.imore.com/apple-pencil-ultimate-guide
 
-#Pencil
+# Pencil
 
 Every new iPad supports the Apple Pencil. 
 
@@ -95,7 +95,7 @@ Here are the different steps to charge each generation:
 
 ## First Generation
 
-**Charging with the Lightning adapter
+**Charging with the Lightning adapter**
 
 ```
 1. Remove the cap from the back of your Apple Pencil.
@@ -105,7 +105,7 @@ Here are the different steps to charge each generation:
 ```
  ![](https://www.imore.com/sites/imore.com/files/styles/larger/public/field/image/2015/12/apple-pencil-charging-adapter-screens.jpg?itok=ekvlSDUB)
 
-**Charging with the iPad Pro
+**Charging with the iPad Pro**
 
 ```
 1. Remove the cap from your Apple Pencil.
