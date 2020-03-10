@@ -1,9 +1,9 @@
 
 # iPad for business purposes
 
-The iPad will never be as useful as a work laptop. However, it can be a helpful tool if it's accessorized with a **Keyboard & Stylus**.
+The iPad will never replace a work laptop. However, it can be a helpful tool if accessorized with a **Keyboard & Stylus**.
 
-That said, the easiest way to improve and control your business with an iPad would be  include the usage of the right applications. 
+That said, the easiest way to improve and control your business with an iPad; would be when used with the right applications. 
 
 A lot of advanced applications are available on the **Apple Store** that can help make your work life more efficient. 
 
@@ -12,7 +12,7 @@ When combined with a keyboard or a stylus, your iPad goes from being an excellen
 
 ## SAP Analytics Cloud Roambi
 
-![]https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/a8/07/21a80718-5f70-56dd-f863-4311b80aa976/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png)
+!([]https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/a8/07/21a80718-5f70-56dd-f863-4311b80aa976/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png)
 
 ```
 **SAP Analytics Cloud** has the aptitude for visualization data solutions.
