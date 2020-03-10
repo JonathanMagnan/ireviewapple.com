@@ -12,7 +12,7 @@ When combined with a keyboard or a stylus, your iPad goes from being an excellen
 
 ## SAP Analytics Cloud Roambi
 
-!([]https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/a8/07/21a80718-5f70-56dd-f863-4311b80aa976/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/a8/07/21a80718-5f70-56dd-f863-4311b80aa976/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png)
 
 ```
 **SAP Analytics Cloud** has the aptitude for visualization data solutions.
