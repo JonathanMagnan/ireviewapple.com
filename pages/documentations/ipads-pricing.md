@@ -1,5 +1,5 @@
 
-#iPad models price list:
+# iPad models price list:
 
 Apple sells several different iPad models. The following list will guide you through stores and prices.
 
@@ -57,6 +57,3 @@ That said, sometimes it's easy to get lost between all those technologies and wo
 For that matter, the website **Photo Price**  will show you the value of your tablet over the years. 
 
 http://www.photoprice.ca/~Apple-Tablets
-
-
-
