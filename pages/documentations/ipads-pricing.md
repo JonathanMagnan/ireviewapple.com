@@ -1,7 +1,7 @@
 
 # iPad models price list:
 
-Apple sells several different iPad models. The following list will guide you through stores and prices.
+Choosing an iPad can be hard since Apple continues to develop different models and versions. That said, the following list will guide you through stores and prices. 
 
 ## Price compare for iPad Air 10.5"( 3rd Generation)
 
