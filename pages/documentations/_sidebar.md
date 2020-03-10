@@ -1,0 +1,6 @@
+- IPads
+   - [Overview](ipads.md)
+   - [Description](ipads-descriptions.md)
+   - [Accessories](ipads-accessories.md)
+   - [Applications](ipads-applications.md)
+   - [Pricing](ipads-pricing.md)
