@@ -3,7 +3,7 @@
 
 The iPad will never replace a work laptop. However, it can be a helpful tool if accessorized with a **Keyboard & Stylus**.That said, the easiest way to improve and control your business with an iPad; would be when used with the right applications. 
 
-A lot of advanced applications are available on the **Apple Store** that can help make your work life more efficient. When combined with a keyboard or a stylus, your iPad goes from being an excellent tablet to a powerful tool for business. Tablets are portable, affordable, and easy to use, and when paired with great accessories, iPads can be nearly as powerful as standard laptops but without the bulky frame.
+A lot of advanced applications are available on the **Apple Store** that can help make your work life more efficient. Once combined with a keyboard or a stylus, your iPad goes from being a brilliant tablet to a powerful tool for business. Not only that, but Tablets are not hard to carry, affordable, easy to use, and more reliable when paired with great accessories. 
 
 
 ## SAP Analytics Cloud Roambi
