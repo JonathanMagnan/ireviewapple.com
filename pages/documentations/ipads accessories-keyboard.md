@@ -5,7 +5,7 @@ If you are planning on using your iPad as a laptop, investing in a keyboard woul
 
 ## Apple Smart Keyboard
 
-Obviously, Apple has its own product with its unique touch! The keyboard is light, thin, and water-resistant. This not-so-perfect-keyboard has the most negative reviews; no backlit, no shortcut keys, the screen isn't adjustable, and there's no touchpad. here are the latest alternative available on the market:
+Obviously, Apple has its own product with its unique touch! The keyboard is light, thin, and **water-resistant**. This not-so-perfect-keyboard has the most negative reviews; no backlit, no shortcut keys, the screen isn't adjustable, and there's no touchpad. here are the latest alternative available on the market:
 
 ## GreenLaw iPad Keyboard Case
 
