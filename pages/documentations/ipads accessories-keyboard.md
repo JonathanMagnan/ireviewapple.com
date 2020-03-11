@@ -17,7 +17,9 @@ Starting Price: 55$
 
 The rigid design of this keyboard case will protect the front and back of your iPad while not in use. Despite its strong case, Logitech states that the Slim Folio Pro will last up to 3-months on a single charge. Also, its smart design will automatically turn on and off according to the typing mode.
 
-Starting Price: 119$
+Starting Price: 119$ USD
+
+[See more](https://www.logitech.com/en-ca/product/slim-folio-ipad-keyboard-case)
 
 ## IVSO Keyboard Case
 
