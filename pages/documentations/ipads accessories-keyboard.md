@@ -37,7 +37,9 @@ This light case has a detachable keyboard that will allow you to adjust your scr
 
 ## Zagg Folio Case
 
-Sarting Price: 
+![](https://www.zagg.com/media/catalog/product/r/u/rugged-book-ipad-mini-1_copy.jpg?width=684&height=684&canvas=684:684&quality=70&bg-color=255,255,255&fit=bounds)
+
+[Sarting Price: $129 USD](https://www.zagg.com/en_us/rugged-book-apple-mini-5) 
 
 ## Logitech Slim Combo Keyboard Case
 
