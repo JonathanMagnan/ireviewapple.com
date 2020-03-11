@@ -3,7 +3,10 @@
 
 If you are planning on using your iPad as a laptop, investing in a keyboard would be an efficient investment! 
 Having a physical keyboard is more helpful than the integrated one in the iPads  since it is more practical for typing.
-here are the latest models availabe on the market:
+
+## Apple Smart Keyboard
+
+Obviously, Apple has its own product with its unique touch! the Keyboard is light, thin and **water-resistant**. this not-so-perfect-keyboard has the most negative reviews; no backlit, no shortcut keys, the screen isn't adjustable and there's no touchpad. here are the latest alternative availabe on the market:
 
 ## GreenLaw iPad Keyboard Case
 
@@ -25,13 +28,6 @@ This light case has a detachable keyboard that will allow you to adjuste your sc
 
 Sarting Price: 39$
 
-## Brydge Keyboard
-
-Sarting Price: 99$
-
-## Apple Smart Keyboard
-
-Sarting Price: 
 
 ## Zagg Folio Case
 
