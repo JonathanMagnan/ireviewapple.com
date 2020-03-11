@@ -7,6 +7,7 @@ If you are planning on using your iPad as a laptop, investing in a keyboard woul
 
 Obviously, Apple has its own product with its unique touch! The keyboard is light, thin, and **water-resistant**. This not-so-perfect-keyboard has the most negative reviews; no backlit, no shortcut keys, the screen isn't adjustable, and there's no touchpad. here are the latest alternative available on the market:
 
+[Starting price: $219 USD](https://www.apple.com/ca/fr/smart-keyboard/)
 ## GreenLaw iPad Keyboard Case
 
 This rotating case keyboard will transform your iPad into a mini-computer. By being able to move it in any direction allows you to share your screen while making presentations. Also, the keyboard changes colors to bright ones allowing you to work in darker environments.
@@ -23,7 +24,7 @@ The rigid design of this keyboard case will protect the front and back of your i
 
 This light case has a detachable keyboard that will allow you to adjust your screen into different angles. Also, it has a magnetic cover designed to provide maximum protection for your iPad.
 
-Sarting Price: 39$
+[Sarting Price: 39$](https://www.amazon.com/IVSO-Keyboard-Wireless-Charging-Enabled/dp/B07BDJRLGB)
 
 ## Zagg Folio Case
 
