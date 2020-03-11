@@ -1,33 +1,29 @@
 
 # Keyboard
 
-If you are planning on using your iPad as a laptop, investing in a keyboard would be an efficient investment! 
-Having a physical keyboard is more helpful than the integrated one in the iPads  since it is more practical for typing.
+If you are planning on using your iPad as a laptop, investing in a keyboard would be an efficient investment! Having a physical keyboard is more helpful than the integrated one in the iPads since it is more practical for typing.
 
 ## Apple Smart Keyboard
 
-Obviously, Apple has its own product with its unique touch! the Keyboard is light, thin and **water-resistant**. this not-so-perfect-keyboard has the most negative reviews; no backlit, no shortcut keys, the screen isn't adjustable and there's no touchpad. here are the latest alternative availabe on the market:
+Obviously, Apple has its own product with its unique touch! The keyboard is light, thin, and water-resistant. This not-so-perfect-keyboard has the most negative reviews; no backlit, no shortcut keys, the screen isn't adjustable, and there's no touchpad. here are the latest alternative available on the market:
 
 ## GreenLaw iPad Keyboard Case
 
-This rotaing case keyboard will transform your ipad into a mini computer. 
-By being able to move it in any direction allows you share your screen while making presentations. 
-Also the keyboard changes colors to bright ones alowing you to work in darker environements. 
+This rotating case keyboard will transform your iPad into a mini-computer. By being able to move it in any direction allows you to share your screen while making presentations. Also, the keyboard changes colors to bright ones allowing you to work in darker environments.
 
 Starting Price: 55$
 
 ## Logitech Slim Folio Keyboard Case
 
-The regid design of this keyboard case will protect the front and back of your iPad while not in use. despite of its strong case, Logitech states that the Slim Folio Pro will last up to 3-months on a single charge. Also it smart design will automatically turn on and off according on thetyping mode. 
+The rigid design of this keyboard case will protect the front and back of your iPad while not in use. Despite its strong case, Logitech states that the Slim Folio Pro will last up to 3-months on a single charge. Also, its smart design will automatically turn on and off according to the typing mode.
 
-Sarting Price: 119$
+Starting Price: 119$
 
 ## IVSO Keyboard Case
 
-This light case has a detachable keyboard that will allow you to adjuste your screen into  different angles.Also, it has a a magnetic cover designed to provide a maximum protection for your iPad. 
+This light case has a detachable keyboard that will allow you to adjust your screen into different angles. Also, it has a magnetic cover designed to provide maximum protection for your iPad.
 
 Sarting Price: 39$
-
 
 ## Zagg Folio Case
 
