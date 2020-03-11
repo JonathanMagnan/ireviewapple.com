@@ -11,7 +11,7 @@ Obviously, Apple has its own product with its unique touch! The keyboard is ligh
 
 This rotating case keyboard will transform your iPad into a mini-computer. By being able to move it in any direction allows you to share your screen while making presentations. Also, the keyboard changes colors to bright ones allowing you to work in darker environments.
 
-Starting Price: 55$
+[Starting Price: 55$](https://www.amazon.com/Keyboard-Compatible-Backlit-Wireless-Greenlaw-Rosegold/dp/B07585ZCFN)
 
 ## Logitech Slim Folio Keyboard Case
 
