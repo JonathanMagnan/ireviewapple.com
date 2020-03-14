@@ -112,10 +112,6 @@ first-generation Apple Pencil support, Smart Keyboard support.
 ```
 ![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/seventh_generation_ipad.jpeg?itok=7jNxWrLo) 
 
-## Prices
-
-## Q&A
-
 ---
 # iPad Air
 
@@ -163,10 +159,6 @@ Lightning connector, nano-SIM tray on right side, Touch ID, support for first-ge
 ```
 
 ![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.27.46_pm.png?itok=KjxAJCp9)
-
-## Prices
-
-## Q&A
 
 ---
 # iPad Mini
@@ -237,10 +229,6 @@ Distinction: 7.9-inch Retina display, wide color display, True Tone display tech
 nano-SIM tray on right side, Touch ID, first-generation Apple Pencil support.
 ```
 ![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.22.35_pm.png?itok=3LkvH9ji)
-
-## Prices
-
-## Q&A
 
 ---
 # iPad Pro
@@ -328,7 +316,3 @@ Distinction: Edge-to-edge display, no Home button, Face ID, black front bezel, 1
 aluminum housing in space gray or silver,  USB-C Connector, Smart Connector, nano-SIM tray on right side on Pro Wi-Fi and Cellular version, TrueDepth camera, 12MP back camera, four-speaker audio, 2nd generation Apple Pencil support, Smart Keyboard Folio support.
 ```
 ![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/apple_ipad.jpg?itok=hQNSjWif)
-
-## Prices
-
-## Q&A
