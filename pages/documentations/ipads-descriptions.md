@@ -1,21 +1,19 @@
-# ipad (regular generation 7th info TBD)
+# ipad (the first generations)
 
-Even if the 3 first generation are no longer manifactured by Apple, they are still pretty useful! the tablets have the capable of performing some of the *everyday tasks* that we usually do while using our laptop or desktop. normally use a laptop.
+Even if the 3 first generations are no longer manifactured by Apple, they are still pretty useful! the tablets have the capable of performing some of the *everyday tasks* that we usually do while using our laptop or desktop. For instance, the tablet can be used as an electronic book console or even a handy recipe book.
 
 # iPad Air
 
-The regular iPad and the iPad Air offer a similar design. However, there are differences under the hood.
-For starters, the iPad Air is compatible with a various range of accessories, including the Apple Pencil.
-The iPad Air is thinner, more powerful, and has a bigger screen and has a resolution of 2,224 x 1,668.
+The regular iPad and the iPad Air models offer a similar design. However, there are differences under the hood.
+For starters, The iPad Air can act as a hotspot with some carriers, sharing its Internet connection over Wi-Fi, Bluetooth, or USB, and also access the Apple App Store. The iPad Air 2 is compatible with a various range of accessories, including the Apple Pencil.
+The iPad Air is thinner, more powerful, and has a bigger screen, including a resolution of 2,224 x 1,668.
 
 # iPad mini
 
-The iPad mini is appealing for its size since it is small enough to be carried in a bag. 
+The iPad mini models are appealing for their size, since the model is small enough to be carried in a bag. 
 Also, It has a 7.9-inch screen, weighs 0.66 pounds, and measures less than a quarter of an inch thick. 
 The iPad mini is also remarkable for its power as strong as the regular models.   
-However, the Mini version doesn't support Apple's Smart Keyboard.
-
-
+However, the Mini version **doesn't support Apple's Smart Keyboard.
 
 # iPad Pro 
 
