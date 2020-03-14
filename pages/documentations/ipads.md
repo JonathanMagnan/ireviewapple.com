@@ -13,6 +13,7 @@ However, among all these products, it is sometimes difficult to opt for a genera
 
 **iPad the first Generation**
 
+Even if the 3 first generations are no longer manifactured by Apple, they are still pretty useful! the tablets have the capable of performing some of the everyday tasks that we usually do while using our laptop or desktop. For instance, the tablet can be used as an electronic book console or even a handy recipe book.
 ```table
 Year: 2010 -2011
 
@@ -329,32 +330,5 @@ aluminum housing in space gray or silver,  USB-C Connector, Smart Connector, nan
 ![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/apple_ipad.jpg?itok=hQNSjWif)
 
 ## Prices
-
-## Q&A
-
----
-# iPad Accessories
-
-**Pencil**
-## Prices
-
-## Q&A
-
-**Keyboard**
-
-## Prices
-
-## Q&A
-
----
-# iPad Software Compatibility
-
-## Q&A
----
-# iPad Applications
-
-## Q&A
----
-# iPad Cellular and Wireless
 
 ## Q&A
