@@ -1,9 +1,12 @@
 Apple
 https://www.iphonelife.com/content/which-ipad-do-i-have-how-to-identify-different-ipad-models-generations#iPad%20Air
+
 # iPad
-The iPad is a digital tablet developed by the company Apple. The first generation of this revolutionary technology was born in April 2010. 
-Ever since its first appearance, the product has continued to gain popularity. Thereby, 17 new tablets have emerged over the past 10 years. 
+
+The iPad is a digital tablet developed by the company Apple. The first generation of this revolutionary technology was born in April 2010. Ever since its first appearance, the product has continued to gain popularity. Thereby, 17 new tablets have emerged over the past 10 years. 
+
 ![](https://upload.wikimedia.org/wikipedia/fr/timeline/f1e1f200872515cd1250afb1c9fd54f2.png)
+
 However, among all these products, it is sometimes difficult to opt for a generation. For that matter, this guide will help you find the answers to the frequent questions regarding the iPad(s).
 
 ---
