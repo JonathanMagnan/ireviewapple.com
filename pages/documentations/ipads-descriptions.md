@@ -1,4 +1,4 @@
-# ipad (the first generations)
+# iPad (the first generations)
 
 Even if the 3 first generations are no longer manifactured by Apple, they are still pretty useful! the tablets have the capable of performing some of the *everyday tasks* that we usually do while using our laptop or desktop. For instance, the tablet can be used as an electronic book console or even a handy recipe book.
 
