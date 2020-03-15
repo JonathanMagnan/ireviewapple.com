@@ -37,10 +37,8 @@ This light case has a detachable keyboard that will allow you to adjust your scr
 
 ## Zagg Folio Case
 
+This keyboard has multiple shortcuts such as one for music playback, home screen, Expose, Spotlight search, hiding the keyboard, and adjusting the brightness of the backlit keys. Also, offers keyboard for the iPad mini.
+
 ![](https://www.zagg.com/media/catalog/product/r/u/rugged-book-ipad-mini-1_copy.jpg?width=684&height=684&canvas=684:684&quality=70&bg-color=255,255,255&fit=bounds)
 
 [Sarting Price: $129 USD](https://www.zagg.com/en_us/rugged-book-apple-mini-5) 
-
-## Logitech Slim Combo Keyboard Case
-
-Sarting Price: 
