@@ -33,7 +33,7 @@ This light case has a detachable keyboard that will allow you to adjust your scr
 
 ![](https://images-na.ssl-images-amazon.com/images/I/41nnfou4cML._AC_SY400_.jpg)
 
-[Sarting Price: 39$](https://www.amazon.com/IVSO-Keyboard-Wireless-Charging-Enabled/dp/B07BDJRLGB)
+[Sarting Price: $39 USD](https://www.amazon.com/IVSO-Keyboard-Wireless-Charging-Enabled/dp/B07BDJRLGB)
 
 ## Zagg Folio Case
 
