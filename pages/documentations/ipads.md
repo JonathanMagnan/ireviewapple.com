@@ -118,9 +118,14 @@ first-generation Apple Pencil support, Smart Keyboard support.
 ---
 # iPad Air
 
+The regular iPad and the iPad Air models offer a similar design. However, there are differences under the hood.
+For starters, The iPad Air can act as a hotspot with some carriers, sharing its Internet connection over Wi-Fi, Bluetooth, or USB, and also access the Apple App Store. The iPad Air 2 is compatible with a various range of accessories, including the Apple Pencil.
+The iPad Air is thinner, more powerful, and has a bigger screen, including a resolution of 2,224 x 1,668.
+
 ## Comparaison
 
 **iPad Air**
+
 ```table
 Year: Late 2013-2016
 
@@ -165,6 +170,13 @@ Lightning connector, nano-SIM tray on right side, Touch ID, support for first-ge
 
 ---
 # iPad Mini
+
+The iPad mini models are appealing for their size, since the model is small enough to be carried in a bag. 
+Also, It has a 7.9-inch screen, weighs 0.66 pounds, and measures less than a quarter of an inch thick. 
+The iPad mini is also remarkable for its power as strong as the regular models.   
+Also, the latest version of the iPad Mini  **supports Apple's Smart Keyboard.
+
+## Comparaison
 
 **iPad Mini**
 
@@ -236,6 +248,12 @@ nano-SIM tray on right side, Touch ID, first-generation Apple Pencil support.
 ---
 # iPad Pro
 
+As stated in the name of this model, the Pro version includes the most significant changes Apple has made to its tablets in years. 
+This advanced model of iPads runs very smoothly, along with its high-performance gaming and video editing. 
+Furthermore, it has a USB-C instead of Lightning, Face ID instead of Touch ID, and the device is more portable.
+
+## Comparaison
+
 **iPad Pro 12.9 inch**
 
 ```table
@@ -293,7 +311,7 @@ aluminum housing in space gray, silver, or gold, four-speaker audio, Apple Penci
 ```
 ![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro12.9_2.jpg?itok=tPjlgXTE)
 
-**iPad Pro 12.9-inch <u> 3rd Generation </u>**
+**iPad Pro 12.9-inch
 
 ```table
 Year: 2018
