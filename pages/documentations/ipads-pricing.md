@@ -68,4 +68,3 @@ For that matter, the website **Photo Price**  will show you the value of your ta
 
 http://www.photoprice.ca/~Apple-Tablets
 
-
