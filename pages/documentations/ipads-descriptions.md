@@ -13,7 +13,7 @@ The iPad Air is thinner, more powerful, and has a bigger screen, including a res
 The iPad mini models are appealing for their size, since the model is small enough to be carried in a bag. 
 Also, It has a 7.9-inch screen, weighs 0.66 pounds, and measures less than a quarter of an inch thick. 
 The iPad mini is also remarkable for its power as strong as the regular models.   
-However, the Mini version **doesn't support Apple's Smart Keyboard.
+Also, the latest version of the iPad Mini  **supports Apple's Smart Keyboard.
 
 # iPad Pro 
 
