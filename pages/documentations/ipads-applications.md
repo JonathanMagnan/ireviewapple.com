@@ -21,6 +21,14 @@ When you have a business trip, the first thing on your mind is to organize prope
 
 [Starting Price: $49/year per year](https://www.tripit.com/web/pricing/)
 
+## FileMaster
+
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/52/7d/dc/527ddcea-3e5e-a6b3-2174-b8b11db8cd02/AppIcon-0-1x_U007emarketing-0-85-220-9.png/1200x630wa.png)
+
+Every business nightmare is a disorganized screen packed with random files. With the File Manager app, you can easily manage and organize your files in a way that makes you more productive.The Application has a built-in search feature that allows you to quickly find the files you need.
+
+[Sarting Price: 3.99 on the App Store](https://apps.apple.com/ca/app/filemaster-privacy-protection/id582219355#?platform=ipad)
+
 ## Box - Cloud Content Management
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Box%2C_Inc._logo.svg/langfr-560px-Box%2C_Inc._logo.svg.png)
