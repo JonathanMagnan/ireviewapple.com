@@ -9,7 +9,7 @@ A lot of advanced applications are available on the **Apple Store** that can hel
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ISpring_Logo.PNG/220px-ISpring_Logo.PNG)
 
-Did you ever wanted toshowcase a PowerPoint presentation or PDF on your iPad? The SiSpring Suite can make that happen. It lets you edit and annotate your presentations within the app too.and as a bonus, if you have a larger monitor, you will be able to display your presentation on it! All you have to do is use AirPlay to send it from your iPad to the monitor.
+Did you ever wanted toshowcase a PowerPoint presentation or PDF on your iPad? The iSpring Suite can make that happen. It lets you edit and annotate your presentations within the app too.and as a bonus, if you have a larger monitor, you will be able to display your presentation on it! All you have to do is use AirPlay to send it from your iPad to the monitor.
 
 [Starting Price: $290 USD](https://www.ispringsolutions.com/ispring-suite)
 
