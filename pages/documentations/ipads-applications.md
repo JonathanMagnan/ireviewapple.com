@@ -45,12 +45,10 @@ This app translates your spoken words into text on your iPad. The application ca
 
 **Evernote** is a cross-platform app that is used for various purposes. For starters, it can store all of your files; it’s equipped for different note tools; it has a task or project system, and many more features. 
 
-[Starting price: $15/month per user](
+[Starting price: $45/year per user](https://evernote.com/intl/fr/compare-plans)
 
 ## iWork
 
 ![](https://upload.wikimedia.org/wikipedia/fr/0/07/150px-IWork_Logo.png)
 
 This application, developed by Apple, helps coworkers collaborate in real-time, by enabling team members to connect and work together, regardless if they are using a Mac computer, iPad, or an iPhone. 
-
-Starting price: 
