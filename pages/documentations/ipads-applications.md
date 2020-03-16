@@ -5,24 +5,21 @@ The iPad will never replace a work laptop. However, it can be a helpful tool if 
 
 A lot of advanced applications are available on the **Apple Store** that can help make your work life more efficient. Once combined with a keyboard or a stylus, your iPad goes from being a brilliant tablet to a powerful tool for business. Not only that, but Tablets are not hard to carry, affordable, easy to use, and more reliable when paired with great accessories. 
 
+## iSpring Suite
 
-## SAP Analytics Cloud Roambi
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ISpring_Logo.PNG/220px-ISpring_Logo.PNG)
 
-![](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/a8/07/21a80718-5f70-56dd-f863-4311b80aa976/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png)
+Did you ever wanted toshowcase a PowerPoint presentation or PDF on your iPad? The SiSpring Suite can make that happen. It lets you edit and annotate your presentations within the app too.and as a bonus, if you have a larger monitor, you will be able to display your presentation on it! All you have to do is use AirPlay to send it from your iPad to the monitor.
 
-**SAP Analytics Cloud** has the aptitude for visualization data solutions.
-Also, it can offer business planning, predictive analytics, virtual meetings, and reporting functionalities within a suite.
+[Starting Price: $290 USD](https://www.ispringsolutions.com/ispring-suite)
 
-Starting price: $22/month for one user
+## TripIt
 
-## QuickBooks
+![](https://www.tripit.com/web/wp-content/uploads/sites/1/2018/12/logo-tripit.svg)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Intuit_QuickBooks_logo.png/440px-Intuit_QuickBooks_logo.png)
+When you have a business trip, the first thing on your mind is to organize properly, so you won't miss out on anything!The TripIt app can help prevent that. Since it keeps all your plans in one place, it will allow you to see a summary of your trip at a glance.
 
-Members of a company can use this software **even if they are not related to the AP department!**
-QuickBooks will help you manage your books by offering tutorials for auto-banking transactions.
-
-Starting price: $10/month for one user
+[Starting Price: $49/year per year](https://www.tripit.com/web/pricing/)
 
 ## Box - Cloud Content Management
 
@@ -31,7 +28,7 @@ Starting price: $10/month for one user
 Being able to keep track of your files is a must for any company. 
 It is possible to keep an eye on your files with this secure and user-friendly application anywhere at any time! 
 
-Starting price: $5/month for one user
+[Starting price: $5/month per user](https://www.box.com/pricing)
 
 ## oDragon Dictation
 
@@ -40,16 +37,7 @@ Starting price: $5/month for one user
 Whether it's for communicating with overseas customers or * to write down* your ideas, **oDragon Dictation** is a life and time saver. 
 This app translates your spoken words into text on your iPad. The application can be used in different languages, therefore, growing your connections! 
 
-Starting price: $15/month for one user
-
-## Swift
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Swift_logo_with_text.svg/262px-Swift_logo_with_text.svg.png)
-
-**Swift** is a programming language suitable for macOS, iOS, watchOS, and tvOS.
-Using this application will make it easier to write code since the platform is built for friendly-usage.   
-
-Price: *Swift is free and open source**
+[Starting price: $150/year per user](https://shop.nuance.com/store/nuanceus/en_US/pd/productID.330332800)
 
 ## Evernote
 
@@ -57,7 +45,7 @@ Price: *Swift is free and open source**
 
 **Evernote** is a cross-platform app that is used for various purposes. For starters, it can store all of your files; it’s equipped for different note tools; it has a task or project system, and many more features. 
 
-Starting price: $15/month for one user
+[Starting price: $15/month per user](
 
 ## iWork
 
