@@ -68,3 +68,11 @@ This application, developed by Apple, helps coworkers collaborate in real-time, 
 This app will allow you to communicate with your team or by private conversation over videos, conferences, file sharing and chat.
 
 [Starting price: $2 per user / per month](https://www.zoho.com/cliq/pricing.html) 
+
+## Jira Software
+
+![](https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=894)
+
+Jira is a developped platform from Atlassian that will allow you to keep track of planning and 
+
+[Starting price: $10/year per 10 users](https://www.atlassian.com/purchase/product/jira-software)
