@@ -81,6 +81,6 @@ Jira is a developped platform from Atlassian that will allow you to plan and kee
 
 ![](https://d1ehzjfgwm4zwl.cloudfront.net/sites/default/files/samepage-logo.svg)
 
-SamePage is a project management software. It allows all members to work simultaneousl by getting more done with less emails!
+SamePage is a project management software. It allows all members to work simultaneously by getting more done with less emails!
 
 [Starting price:$ 7.50/per month](https://www.samepage.io/pricing)
