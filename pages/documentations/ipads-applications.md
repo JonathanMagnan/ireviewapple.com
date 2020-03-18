@@ -76,3 +76,11 @@ This app will allow you to communicate with your team or by private conversation
 Jira is a developped platform from Atlassian that will allow you to plan and keep track of your projects. 
 
 [Starting price: $10/year per 10 users](https://www.atlassian.com/purchase/product/jira-software)
+
+## Same Page
+
+![](https://d1ehzjfgwm4zwl.cloudfront.net/sites/default/files/samepage-logo.svg)
+
+SamePage is a project management software. It allows all members to work simultaneousl by getting more done with less emails!
+
+[Starting price:$ 7.50/per month](https://www.samepage.io/pricing)
