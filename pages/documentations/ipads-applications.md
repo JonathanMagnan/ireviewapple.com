@@ -60,3 +60,9 @@ This app translates your spoken words into text on your iPad. The application ca
 ![](https://upload.wikimedia.org/wikipedia/fr/0/07/150px-IWork_Logo.png)
 
 This application, developed by Apple, helps coworkers collaborate in real-time, by enabling team members to connect and work together, regardless if they are using a Mac computer, iPad, or an iPhone. 
+
+## Zoho Clliq
+
+![](https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/cliq-icon.png?itok=WUUj7NU6)
+
+This app will allow you to communicate with your team or by private conversation over videos, conferences, file sharing and chat.
