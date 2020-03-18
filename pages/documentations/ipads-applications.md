@@ -73,6 +73,6 @@ This app will allow you to communicate with your team or by private conversation
 
 ![](https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=894)
 
-Jira is a developped platform from Atlassian that will allow you to keep track of planning and 
+Jira is a developped platform from Atlassian that will allow you to plan and keep track of your projects. 
 
 [Starting price: $10/year per 10 users](https://www.atlassian.com/purchase/product/jira-software)
