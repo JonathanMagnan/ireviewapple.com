@@ -57,7 +57,7 @@ The 3 cameras at the back of the phone offers 2x optical zoom, different size op
 
 # iPhone XR 
 
-![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1550795424612_
+![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1550795424612)
 
 The iPhone XR remains a great value, especially if you want a bigger screen.
 
