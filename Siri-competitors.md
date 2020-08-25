@@ -1,5 +1,5 @@
 
-Siri - Competitors
+# Siri - Competitors
 
 ![](https://babyconnect.files.wordpress.com/2019/03/hey2.gif)
 
@@ -26,6 +26,8 @@ Despite of being able to send voice messages and call other Alexa devices, it ca
 
 # Google Assitant
 
+![](https://lh3.googleusercontent.com/23TzU98VChGFvna_j2PPl_15Wvw8TksyLcp82Ks3mH3neptwD3vSXzQrqHrDBrLP0To6cE1WKleh7ZvWwP_2OVmPpQ=w1200)
+
 Google Assistant is probably the smartest and most dynamic of the personal assistants.
 
 This assistant will allow you to control compatible smart home devices, control music, access information from your calendars, act as a translator in real-time, run timers, alarms and reminders.
@@ -33,4 +35,3 @@ This assistant will allow you to control compatible smart home devices, control 
 You can also find information online and play content to a Chromecast device. Google Assistant is very impressive, since it can handle multiple queries at once.
 
 However, Siri continues to prove more useful with phone-related functions like calling, texting, emailing, calendar, and music. 
-
