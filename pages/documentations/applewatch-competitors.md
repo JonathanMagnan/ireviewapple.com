@@ -31,7 +31,7 @@ Regarding the storage, the Fitbit has 2.5GB of storage set aside for music, whil
 
 # Fossil Q
 
-![](https://fossbytes.com/wp-content/uploads/2018/11/Fossil-Sport-Smartwatches.jpg)
+<img src="https://fossbytes.com/wp-content/uploads/2018/11/Fossil-Sport-Smartwatches.jpg" width="400">
 
 As the Apple watch, Fossil Smartwatches offer fitness tracking BUT it has to be paired with your phone in order to function. That said, you will always have to rely on your phone in order to stay connected. 
 
@@ -39,7 +39,7 @@ The watch kind of looses it's credibility and becomes an *ordinary watch* when i
 
 # Samsung Gear S2
 
-![](https://images.samsung.com/is/image/samsung/p5/ca/wearables/gear-s2/features/gears2_design_atelier-mendini.jpg?$ORIGIN_JPG$)
+<img src="https://images.samsung.com/is/image/samsung/p5/ca/wearables/gear-s2/features/gears2_design_atelier-mendini.jpg?$ORIGIN_JPG$" width="400">
 
 The strongest rival of the Apple watch would be the Samsung version. The Galaxy Watch is compatible with both android and iOS, while the Apple watch can only be used with an iPhone. 
 
