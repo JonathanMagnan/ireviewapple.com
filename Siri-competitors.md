@@ -15,7 +15,7 @@ During the Annual Digital Assistant IQ Test of August 2019, the company asked th
 
 # Amazon Alexa
 
-**Supports over 20,000 smart home devices
+### Supports over 20,000 smart home devices
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNLLce_es-C_3CSbPu5eLcHrAVfx6hId_6mg&usqp=CAU)
 
@@ -27,7 +27,7 @@ Despite of being able to send voice messages and call other Alexa devices, it ca
 
 # Google Assitant
 
-**Supports over 10,000 smart home devices
+### Supports over 10,000 smart home devices
 
 ![](https://lh3.googleusercontent.com/23TzU98VChGFvna_j2PPl_15Wvw8TksyLcp82Ks3mH3neptwD3vSXzQrqHrDBrLP0To6cE1WKleh7ZvWwP_2OVmPpQ=w1200)
 
