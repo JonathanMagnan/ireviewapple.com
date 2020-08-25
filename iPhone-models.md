@@ -29,7 +29,7 @@ Also, the edge-to-edge screen is more clear and neat that supports HDR in iTunes
 
 The iPhone X was a celebration of 10 years of the iPhone and it's still available with or without a phone carrier.
 
-[Staring price: ] (https://cellularsavings.ca/products/iphone-x-64gb?variant=14196426375213&currency=CAD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_campaign=gs-2019-03-26&utm_source=google&utm_medium=smart_campaign)
+[Staring price: ](https://cellularsavings.ca/products/iphone-x-64gb?variant=14196426375213&currency=CAD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_campaign=gs-2019-03-26&utm_source=google&utm_medium=smart_campaign)
 
 # iPhone 11
 
