@@ -17,7 +17,7 @@ This clipped light is a small gadget that comes in different sizes and shapes th
 
 The 3 different lights intensities will illuminate the subject of a photo when the lighting is less than ideal.
 
-[Shop here: https://www.amazon.ca/dp/B07VHNK9KM/ref=cm_sw_em_r_mt_dp_zfSqFbVK8Q4E0]
+[Shop here](https://www.amazon.ca/dp/B07VHNK9KM/ref=cm_sw_em_r_mt_dp_zfSqFbVK8Q4E0)
 
 ## portable photo printer
 
@@ -27,7 +27,7 @@ There is a variety of wireless photo printers compatible with iOS, that will hel
 
 The Fujifilm is one of the most used printers since it’s small and compact so that you carry it around everywhere you go.
 
-[Shop here: https://www.amazon.ca/-/fr/dp/B01GTKG5Z8/ref=twister_B01K3EPNKE?_encoding=UTF8&psc=1]
+[Shop here](https://www.amazon.ca/-/fr/dp/B01GTKG5Z8/ref=twister_B01K3EPNKE?_encoding=UTF8&psc=1)
 
 Also, Fujifilm has its own laminated sheets that come with different options; wild, classic, chromes, and even colorful backgrounds. 
 
@@ -43,7 +43,7 @@ A stylish Bluetooth speaker would be the solution for our ears! The WONDERBOOM s
 
 What is more exciting about this product is the waterproof feature that you can enjoy, at the pool, in the shower, or even on a rainy stroll!
 
-[Shop here: https://www.amazon.com/Ultimate-Ears-WONDERBOOM-Waterproof-Bluetooth/dp/B06XH3PWSF]
+[Shop here](https://www.amazon.com/Ultimate-Ears-WONDERBOOM-Waterproof-Bluetooth/dp/B06XH3PWSF)
 
 ## Wireless charging
 
@@ -57,11 +57,11 @@ A pad is a good idea for your bed-side table or lying on your desk, but there ar
 
 Stands are useful for iPhones with Face ID, and to work on your phone while charging.
 
-[Shop Stand charger here: https://www.amazon.ca/dp/B0753Z4PGC/ref=cm_sw_em_r_mt_dp_3dTqFb9WXRMJJ ]
+[Shop Stand charger here](https://www.amazon.ca/dp/B0753Z4PGC/ref=cm_sw_em_r_mt_dp_3dTqFb9WXRMJJ)
 
-[Shop Pad charger here: https://www.amazon.ca/dp/B00C40OG22/ref=cm_sw_em_r_mt_dp_DdTqFbCWFG36N ]
+[Shop Pad charger here](https://www.amazon.ca/dp/B00C40OG22/ref=cm_sw_em_r_mt_dp_DdTqFbCWFG36N)
 
-[Shop the combo: https://www.amazon.ca/dp/B085LBL7VJ/ref=cm_sw_em_r_mt_dp_27SqFbKH4KP0C  ]
+[Shop the combo](https://www.amazon.ca/dp/B085LBL7VJ/ref=cm_sw_em_r_mt_dp_27SqFbKH4KP0C)
 
 ## Tracker
 
@@ -75,4 +75,4 @@ What's more extraordinary is that even when it’s in silent mode, your phone ca
 
 This tracker can even give you the option to track lost items on a map displayed on your phone.
 
-[Shop here: https://www.amazon.ca/dp/B07W9B83YV/ref=cm_sw_em_r_mt_dp_EgTqFbVH8NNDS]
+[Shop here](https://www.amazon.ca/dp/B07W9B83YV/ref=cm_sw_em_r_mt_dp_EgTqFbVH8NNDS)
