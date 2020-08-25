@@ -13,9 +13,9 @@ Also, with a bigger and faster sensor, the 12-megapixel camera on noth iPhones t
 
 Hopefully, this iPhone is still available with or without a phone carrier.
 
-[iPhone 8 Staring price: $569] (https://www.amazon.ca/Apple-iPhone-4-7-Fully-Unlocked/dp/B07CQ7FXVY/ref=asc_df_B07CQ7FXVY/?tag=googleshopc0c-20&linkCode=df0&hvadid=335346879296&hvpos=&hvnetw=g&hvrand=16724732680496854873&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000455&hvtargid=pla-583024197302&psc=1)
+[iPhone 8 Staring price: $569](https://www.amazon.ca/Apple-iPhone-4-7-Fully-Unlocked/dp/B07CQ7FXVY/ref=asc_df_B07CQ7FXVY/?tag=googleshopc0c-20&linkCode=df0&hvadid=335346879296&hvpos=&hvnetw=g&hvrand=16724732680496854873&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000455&hvtargid=pla-583024197302&psc=1)
 
-[iPhone 8 Plus Staring price: $569] (https://www.amazon.ca/Apple-iPhone-4-7-Fully-Unlocked/dp/B07CQ7FXVY/ref=asc_df_B07CQ7FXVY/?tag=googleshopc0c-20&linkCode=df0&hvadid=335346879296&hvpos=&hvnetw=g&hvrand=16724732680496854873&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000455&hvtargid=pla-583024197302&psc=1)
+[iPhone 8 Plus Staring price: $569](https://www.amazon.ca/Apple-iPhone-4-7-Fully-Unlocked/dp/B07CQ7FXVY/ref=asc_df_B07CQ7FXVY/?tag=googleshopc0c-20&linkCode=df0&hvadid=335346879296&hvpos=&hvnetw=g&hvrand=16724732680496854873&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000455&hvtargid=pla-583024197302&psc=1)
 
 # iPhone X
 
