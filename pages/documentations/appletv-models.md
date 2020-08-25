@@ -10,7 +10,7 @@ This streaming device is easy to set up and it includes Dolby vison and Dolby At
 
 # Apple TV HD
 
-![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-tv-hero-select-201510?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_usm=0.5,0.5&amp;amp;.v=1503607253099)
+<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-tv-hero-select-201510?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_usm=0.5,0.5&amp;amp;.v=1503607253099" width="200">
 
 The original Apple TV includes a full-blown app store, an integration with Siri for a voice-recognition to search and command operation, and finally, a new remote control with a touchpad.
 
@@ -22,7 +22,7 @@ Even if the remote is included, you can control it with an iPad or iPhone using 
 
 # Apple TV 4K
 
-![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-tv-hero-select-201709?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_usm=0.5,0.5&amp;amp;.v=1504814112595)
+<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-tv-hero-select-201709?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_usm=0.5,0.5&amp;amp;.v=1504814112595" width="200">
 
 The debut of Apple TV 4K makes the streaming TV market more competitive. This new device has the ability to display videos in 4K and HDR.
 
