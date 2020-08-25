@@ -13,6 +13,7 @@ In day-to-day , the 2020 MacBook Air offers good battery life. Apple offers two 
 
 The second configuration upgrades you to the quad-core Core i5 processor and doubles the starting storage to 512GB.
 
+``` 
 Pros:
 
 - Faster Processor
@@ -26,7 +27,9 @@ Pros:
 Cons:
 
 - Limited for storage upgrades
-- Webcam Is 720p
+- Webcam Is 720p 
+
+```
 
 [Staring Price: $999]( https://www.apple.com/xf/shop/buy-mac/macbook-air)
 
