@@ -1,5 +1,5 @@
 
-# How to use you Apple Watch
+# How to use your Apple Watch
 
 Congrats on your new watch! If you are reading this, it means you just got your new gadget out of the box and you are to use it!
 
