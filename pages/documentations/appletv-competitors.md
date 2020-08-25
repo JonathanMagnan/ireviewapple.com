@@ -2,7 +2,7 @@
 # Competitors
 
 ## Apple TV+
-<img src="https://pbs.twimg.com/profile_images/1110241147773829121/x5CQIvx7_400x400.png" width="100">
+<img src="https://pbs.twimg.com/profile_images/1110241147773829121/x5CQIvx7_400x400.png" width="200">
 
 Apple is getting into the streaming game with a new service called Apple TV+. 
 
@@ -29,7 +29,7 @@ Cons:
 
 ## Amazon Fire TV
 
-![](https://i.redd.it/an7tbzxpd3i31.png)
+<img src="https://i.redd.it/an7tbzxpd3i31.png" width="200">
 
 The Amazon Fire TV plays the role of an influencer when the time comes to chose a movie or a tv show. 
 
@@ -58,7 +58,7 @@ Cons:
 
 ## Roku
 
-![](https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png)
+<img src="https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png" width="200">
 
 The Streaming Stick Plus from Roku plugs right into an HDMI port on your TV.  
 
