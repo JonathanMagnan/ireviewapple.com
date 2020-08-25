@@ -45,7 +45,7 @@ In other words, Pro can display a wider spectrum of colors than the Air. The Tou
 
 Apple offers three standard configurations with Turbo Boost up to 3.9GHz and he starting storage to 256GB.
 
-Pros:
+``` Pros:
 
 - Industry-leading display
 - Thin and light design
@@ -57,7 +57,9 @@ Cons:
 - Confusing processor choices
 - Average battery life
 
-[Staring Price: $1699 https://www.apple.com/xf/shop/buy-mac/macbook-pro/13-po]
+```
+
+[Staring Price: $1699](https://www.apple.com/xf/shop/buy-mac/macbook-pro/13-po)
 
 # Macbook Pro 16 in
 
@@ -69,7 +71,7 @@ Compared to the Macbook Pro 13, it is more powerful due to a better Intel proces
 
 The massive screen offers a fuller view of your work, perfect for multitasking or working in a complex application.
 
-Pros:
+``` Pros:
 
 - High performance
 - High-quality speakers
@@ -81,7 +83,9 @@ Cons
 - Lacks full-size USB port or SD card
 - Price
 
-[Staring Price: $2999 https://www.apple.com/xf/shop/buy-mac/macbook-pro/13-po]
+```
+
+[Staring Price: $2999](https://www.apple.com/xf/shop/buy-mac/macbook-pro/13-po)
 
 #iMac 27 Incb
 
@@ -93,7 +97,7 @@ To make the vision even brighter, there's also a new nano-texture glass option. 
 
 The 21.5-inch iMac is still on the market and it supports up to 32GB of fast 2666MHz RAM.
 
-Pros:
+``` Pros:
 
 - Brighter photos and videos  
 - High-quality speakers
@@ -105,12 +109,13 @@ Cons
 - No touch screen option
 - Price
 
+```
 
-[Staring Price: $2399  https://www.apple.com/ca/shop/buy-mac/imac]
+[Staring Price: $2399](https://www.apple.com/ca/shop/buy-mac/imac)
 
 #iMac Pro
 
-![] ()
+![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imacpro-27-retina-config-hero?wid=394&hei=330&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1584055611394)
 
 The iMac Pro remains among the best all-in-one computers on the market. 
 
@@ -118,11 +123,10 @@ Despite of its high price, it is pleasant to fufill the need of a workstation th
 
 This *monster* has a Turbo Boost that is up to 4.5GHz and up to 18 cores.
 
-Pros:
+``` Pros:
  
 - High-quality images
 - Powerful high-end applications
-
 
 Cons
 
@@ -130,4 +134,5 @@ Cons
 - No touch screen option
 - No internal optical drive (an external one can be added at additional cost)
 
-[Staring Price: $6299 https://www.apple.com/ca/shop/buy-mac/imac-pro]
+```
+[Staring Price: $6299](https://www.apple.com/ca/shop/buy-mac/imac-pro)
