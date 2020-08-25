@@ -25,7 +25,7 @@ To get in touch with all of your contacts, you can turn to Skype.
 
 The app allows you to send written messages and make audio or video calls to any fixed or mobile operating system.
 
-Download the App here:![](https://www.skype.com/fr/get-skype/)
+[Download the App here](https://www.skype.com/fr/get-skype/)
 
 ## WhatsApp
 
@@ -35,7 +35,7 @@ This application is available on all mobile platforms, and it allows you to make
 
 that said, you must be connected to the Internet to use the service.
 
-Download the App here:![](https://apps.apple.com/us/app/whatsapp-messenger/id310633997)
+[Download the App here](https://apps.apple.com/us/app/whatsapp-messenger/id310633997)
 
 # Health
 
@@ -49,7 +49,7 @@ Strava works as a GPS app that runners can use to track their workouts routine.
 
 This app will record your stats such as the distance, pace, speed, and elevation gained to keep you on track of your workout journey.
 
-[Download the App here:![](https://apps.apple.com/us/app/strava-run-ride-swim/id426826309)
+[Download the App here](https://apps.apple.com/us/app/strava-run-ride-swim/id426826309)
 
 ## Fooducate
 
@@ -58,6 +58,8 @@ This app will record your stats such as the distance, pace, speed, and elevation
 This app could quickly become your best friend! Not only it goes beyond calorie counting, but it helps you understand the nutritional value of different foods. 
 
 You can also scan product barcodes, and it will reveal a nutrition grade.
+
+[Download the App here](https://apps.apple.com/us/app/fooducate/id398436747?ign-mpt=uo%3D4)
 
 # Organisor
 
@@ -73,6 +75,8 @@ Also, you can add notes, integrate pictures, and voice messages to keep track of
 
 24me will send you a daily report of your upcoming appointments.
 
+[Download the App here](https://apps.apple.com/us/app/24me-smart-personal-assistant/id557745942)
+
 ## 1Password
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/12/1password2018.png)
@@ -80,6 +84,8 @@ Also, you can add notes, integrate pictures, and voice messages to keep track of
 It is probably the best password manager in the App Store. 
 
 1Password is a real digital personal safe that can be found synchronized on all platforms from iPhone to iPad, via computer and its browsers.
+
+[Download the App here](https://apps.apple.com/ca/app/1password-password-manager/id568903335)
 
 # Social Medias
 
@@ -89,17 +95,23 @@ It is probably the best password manager in the App Store.
 
 Since its creation, Twitter became essential on the web. It allows you to stay up to  date on what is happening in real-time all around the world.
 
+[Download the App here](https://apps.apple.com/ca/app/twitter/id333903271)
+
 ## Facebook
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Facebook_Logo_%282019%29.svg/langfr-560px-Facebook_Logo_%282019%29.svg.png)
 
 Facebook is one of the most downloaded applications from the app store. This app will allow you to stay in touch with your closed one by chatting and sharing your daily activities.
 
+[Download the App here](https://apps.apple.com/ca/app/facebook/id284882215)
+
 ## Instagram
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-440px-Instagram_logo_2016.svg.png)
 
 Within a few years, Instagram has become as essential as Facebook. It mainly usage will allow you to share pictures, live videos and stories of your daily activities.
+
+[Download the App here](https://apps.apple.com/ca/app/instagram/id389801252)
 
 ## TikTok
 
@@ -108,3 +120,5 @@ Within a few years, Instagram has become as essential as Facebook. It mainly usa
 In less than 3 years, TikTok has become one of the most used social networks, especially among young people, but also stars. 
 
 The app allows you to film, edit, and share video clips recorded on a song.
+
+[Download the App here](https://apps.apple.com/ca/app/tiktok-make-your-day/id835599320)
