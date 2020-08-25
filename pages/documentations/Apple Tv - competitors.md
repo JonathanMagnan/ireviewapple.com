@@ -2,7 +2,7 @@
 # Competitors
 
 ## Apple TV+
-![](https://pbs.twimg.com/profile_images/1110241147773829121/x5CQIvx7_400x400.png)
+![](https://pbs.twimg.com/profile_images/1110241147773829121/x5CQIvx7_400x400.png | width=100)
 
 Apple is getting into the streaming game with a new service called Apple TV+. 
 
