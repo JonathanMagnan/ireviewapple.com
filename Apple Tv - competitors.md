@@ -37,7 +37,7 @@ It offers access to a numerous streaming content in a 4K resolution.
 
 Roku has it own free to watch streaming channel that has films and TV shows from studios like Columbia and Paramount.
 
-[The subscription starts at $49,99/year](https://www.roku.com/en-ca/how-it-works)
+[The subscription starts at $49,99/year](https://www.roku.com)
 
 
 
