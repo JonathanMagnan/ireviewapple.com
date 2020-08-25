@@ -15,7 +15,7 @@ This line of watches is great for outdoor activities. However, its capacities ar
 
 Compared to Apple, Casio doesn't offer the basic activity tracker such as the heart rate, Active Minutes and Calories Intake Burned.
 
-Further information here https://www.gadgetsnow.com/compare-smartwatch/Apple-Watch-Series-4-44mm-vs-Casio-WSD-F20-PRO-TREK-Smart
+[For further information](https://www.gadgetsnow.com/compare-smartwatch/Apple-Watch-Series-4-44mm-vs-Casio-WSD-F20-PRO-TREK-Smart)
 
 # Fitbit Versa
 
@@ -27,7 +27,7 @@ However, if you are planing on leaving your phone while doing outdoors activitie
 
 Regarding the storage, the Fitbit has 2.5GB of storage set aside for music, while the Apple watch has 8GB for music on the LTE model (2GB if you have a non-LTE version).
 
-Further information here https://www.gadgetsnow.com/compare-smartwatch/Apple-Watch-vs-Fitbit-Versa
+[For further information](https://www.gadgetsnow.com/compare-smartwatch/Apple-Watch-vs-Fitbit-Versa)
 
 # Fossil Q
 
