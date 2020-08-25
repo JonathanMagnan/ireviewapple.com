@@ -5,7 +5,7 @@ Since the beginning of the new century, the 21st has expended its development in
 
 From one year to another, companies battle each other to be the innovative force in the technology field, while the consumers benefit from these competitions. 
 
-![](https://9to5mac.com/wp-content/uploads/sites/6/2020/02/how-to-see-all-apple-watch-apps.jpeg?quality=82&strip=all&w=1600)
+<img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/02/how-to-see-all-apple-watch-apps.jpeg?quality=82&strip=all&w=1600" width="400">
 
 To this day, one of the most *innovative* creation of Apple is the Apple watch. 
 
@@ -13,7 +13,7 @@ The original watch was first released in April 2015. Ever since, series were lau
 
 # The original watch (Series 0)
 
-![](https://www.macobserver.com/wp-content/uploads/2017/12/compare-apple-watches-series-1-768x450.png)
+<img src="https://www.macobserver.com/wp-content/uploads/2017/12/compare-apple-watches-series-1-768x450.png" width="400">
 
 The first model known as series 0, appeared in 2015 and was compatible with the iPhone 5, iPhone 6 & 6 Plus. Apple was able to create its first model in 2 different sizes; 38 mm & 42 mm. 
 
@@ -61,7 +61,7 @@ the workouts that are tracked via GPS include:
 - Open water swim (*up to 50 meters)
 - Outdoor cycle
 
-![](https://cnet1.cbsistatic.com/img/232WMEJWEUncmtr2l7xluTwxa5M=/2016/09/22/81ef8c79-cf8d-403e-98da-3869a2885e1a/apple-watch-series-2-gps.jpg)
+<img src="https://cnet1.cbsistatic.com/img/232WMEJWEUncmtr2l7xluTwxa5M=/2016/09/22/81ef8c79-cf8d-403e-98da-3869a2885e1a/apple-watch-series-2-gps.jpg" width="500">
 
 Once the workout is completed, you can track your patch by reconnecting your watch to your iPhone. 
 
