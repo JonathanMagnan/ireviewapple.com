@@ -1,6 +1,7 @@
 
-# Apple TV+ - Competitors
+# Competitors
 
+## Apple TV+
 ![](https://pbs.twimg.com/profile_images/1110241147773829121/x5CQIvx7_400x400.png)
 
 Apple is getting into the streaming game with a new service called Apple TV+. 
@@ -26,7 +27,7 @@ Cons:
 
 [The subscription starts at $59,98/year](https://www.apple.com/ca/apple-tv-plus/)
 
-# Amazon Fire TV
+## Amazon Fire TV
 
 ![](https://i.redd.it/an7tbzxpd3i31.png)
 
@@ -55,7 +56,7 @@ Cons:
 
 [The subscription starts at $39,99/year](https://www.amazon.com/subscription-Network-Kitchen-additional-auto-renewal/dp/B086PHBT95)
 
-# Roku
+## Roku
 
 ![](https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png)
 
