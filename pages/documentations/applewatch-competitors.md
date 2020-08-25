@@ -9,7 +9,7 @@ However, different companies tried to perfect the watch and here are the lookali
 
 # Casio Pro Trek Smart Outdoor Watch
 
-![](https://casiocdn.com/casio-v2/resource/temp/images/Artwork-brand/protrek-tpd.jpg)
+<img src="https://casiocdn.com/casio-v2/resource/temp/images/Artwork-brand/protrek-tpd.jpg" width="400">
 
 This line of watches is great for outdoor activities. However, its capacities are limited. 
 
@@ -19,7 +19,7 @@ Compared to Apple, Casio doesn't offer the basic activity tracker such as the he
 
 # Fitbit Versa
 
-![](https://i5.walmartimages.com/asr/dbac9e52-3e83-4c6b-9f1c-7a1662591497_1.fba3337fa55a777d39242cedd35a5b99.jpeg)
+<img src="https://cdn05.zipify.com/YzWukaE5dBf29TRVLecStOgln6k=/fit-in/2048x0/c6234f9b634745798cb7b4e784c65b1b/da7eacbe-ae24-48b1-8468-2121cfeae381-__cr0-0-1464-600_pt0_sx1464_v1___-1.jpg" width="400">
 
 The model Versa from Fitbit and Apple are both strong smartwatches that have the capacity of keeping an eye on your health and fitness. 
 
