@@ -9,6 +9,21 @@ Its content is available exclusively through the Apple TV app, that will allow y
 
 The TV app is also available on other platforms such as Amazon Fire TV and Roku.
 
+```
+Pros:
+
+- Cheaper than Netflix
+- Supports multiple simultaneous users and downloads
+- Free for many Apple customers for a year (once an Apple item is purchased)
+
+Cons:
+
+- No proven franchises compared to Disney/Pixar/Marvel/Star Wars
+- No different users profiles
+- Thin content library
+
+```
+
 [The subscription starts at $59,98/year](https://www.apple.com/ca/apple-tv-plus/)
 
 # Amazon Fire TV
@@ -25,6 +40,19 @@ Just like the Apple TV+, the Fire TV Stick makes it a great option for a second 
 
 However the streamer doesn't offer a 4K resolution. 
 
+```
+Pros:
+
+- Runs the latest apps from various streaming services
+- Connected to Amazon Prime
+
+Cons:
+
+- No 4K resolution
+- Not a friendly interface
+
+```
+
 [The subscription starts at $39,99/year](https://www.amazon.com/subscription-Network-Kitchen-additional-auto-renewal/dp/B086PHBT95)
 
 # Roku
@@ -37,5 +65,17 @@ It offers access to a numerous streaming content in a 4K resolution.
 
 Roku has it own free to watch streaming channel that has films and TV shows from studios like Columbia and Paramount.
 
-[The sybscription starts at $49,99 /year](https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png)
+```
+Pros:
 
+- Affordable
+- Extensive free movie channel
+
+Cons:
+
+- Only supports HDR-10, not Dolby Vision HDR
+- Bugs witht he voice control
+
+```
+
+[The sybscription starts at $49,99 /year](https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png)
