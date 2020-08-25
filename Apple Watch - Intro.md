@@ -61,13 +61,11 @@ the workouts that are tracked via GPS include:
 - Open water swim (*up to 50 meters)
 - Outdoor cycle
 
-(https://cnet1.cbsistatic.com/img/232WMEJWEUncmtr2l7xluTwxa5M=/2016/09/22/81ef8c79-cf8d-403e-98da-3869a2885e1a/apple-watch-series-2-gps.jpg)
+[]!(https://cnet1.cbsistatic.com/img/232WMEJWEUncmtr2l7xluTwxa5M=/2016/09/22/81ef8c79-cf8d-403e-98da-3869a2885e1a/apple-watch-series-2-gps.jpg)
 
 Once the workout is completed, you can track your patch by reconnecting your watch to your iPhone. 
 
-*If you find that the GPS is not tracking your location or distance properly, you calibrate your watch by following the instructions here 
-
-https://support.apple.com/en-us/HT204516
+*If you find that the GPS is not tracking your location or distance properly, you calibrate your watch by [following the instructions here](https://support.apple.com/en-us/HT204516)
 
 ## Health Options
 
