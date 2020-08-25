@@ -88,3 +88,5 @@ However, the *only* task that Siri will not perform will be to delete the note; 
 Siri also can remind you of things you saw. Once you say *remind me of this*, this innovative assistant will add it to Reminders with a link back to not only the app but also the specific content.
 
 ![](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2019/04/reminder-siri-this.jpg)
+
+**key word**: *remind me of*
