@@ -82,7 +82,7 @@ The GPS ties into an enhanced Workout app:
 
 # Series 3
 
-![](https://www.macobserver.com/wp-content/uploads/2017/12/compare-apple-watches-series-3-768x450.png)
+<img src="https://www.macobserver.com/wp-content/uploads/2017/12/compare-apple-watches-series-3-768x450.png" width="400">
 
 Since the launch of Series 2, Apple Watch has experienced significant growth. 
 
@@ -121,7 +121,7 @@ All of the above, plus:
 
 ## Hermès
 
-![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-watch-hermes-og-202003?wid=600&hei=315&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1583365126198)
+<img scr="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-watch-hermes-og-202003?wid=600&hei=315&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1583365126198" width="400">
 
 The Series 4  had launched a glamours and unique collaboration with Hermès that was extended to the series 5.
 
@@ -132,7 +132,7 @@ The features offered on
 
 # Nike+
 
-![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MXR12_VW_34FR+watch-44-alum-silver-nc-nike5s_VW_34FR_WF_CO?wid=750&hei=712&trim=1,0&fmt=p-jpg&qlt=80&op_usm=0.5,0.5&.v=1583262350521,1590016244000)
+<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MXR12_VW_34FR+watch-44-alum-silver-nc-nike5s_VW_34FR_WF_CO?wid=750&hei=712&trim=1,0&fmt=p-jpg&qlt=80&op_usm=0.5,0.5&.v=1583262350521,1590016244000" width="400">
 
 *Get connected through sport* That says it all! Apple Watch Nike is every athletic dream. It comes with an exclusive sport band and unique virtual watch face designs. 
 
