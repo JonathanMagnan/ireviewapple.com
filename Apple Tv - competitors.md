@@ -37,5 +37,5 @@ It offers access to a numerous streaming content in a 4K resolution.
 
 Roku has it own free to watch streaming channel that has films and TV shows from studios like Columbia and Paramount.
 
-[The sybscription starts at /year](https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png)
+[The sybscription starts at $49,99 /year](https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png)
 
