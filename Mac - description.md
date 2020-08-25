@@ -1,5 +1,4 @@
 
-[]
 # Macbook Air
 
 ![](https://www.bhphotovideo.com/images/images2500x2500/apple_mwtl2ll_a_13_3_macbook_air_with_1553858.jpg)
@@ -29,7 +28,7 @@ Cons:
 - Limited for storage upgrades
 - Webcam Is 720p
 
-[Staring Price: $999 https://www.apple.com/xf/shop/buy-mac/macbook-air]
+[Staring Price: $999]( https://www.apple.com/xf/shop/buy-mac/macbook-air)
 
 # Macbook Pro 13 in
 
