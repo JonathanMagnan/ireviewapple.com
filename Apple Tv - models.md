@@ -31,5 +31,3 @@ This 4th generation relies on Siri; you can use voice or text to search for cont
 What is more remarkable, is that the Apple TV also functions as a shopping device with the apps you can download for stores that are integrated with Siri.
 
 [Starting price: $224](https://www.apple.com/ca/shop/buy-tv/apple-tv-4k)
-
-# Apple TV+
