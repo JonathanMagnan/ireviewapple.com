@@ -29,7 +29,7 @@ However the streamer doesn't offer a 4K resolution.
 
 # Roku
 
-![](https://cigars.roku.com/v1/http%3A%2F%2Fimage.roku.com%2Fw%2Frapid%2Fimages%2Fundefined%2F89bf7eb3-341d-4226-8fff-8f1a17f6ea31.jpg)
+![](https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png)
 
 The Streaming Stick Plus from Roku plugs right into an HDMI port on your TV.  
 
@@ -37,7 +37,5 @@ It offers access to a numerous streaming content in a 4K resolution.
 
 Roku has it own free to watch streaming channel that has films and TV shows from studios like Columbia and Paramount.
 
-[https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png)
-
-
+[The sybscription starts at /year](https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png)
 
