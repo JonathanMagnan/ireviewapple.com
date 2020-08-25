@@ -27,6 +27,8 @@ There is a variety of wireless photo printers compatible with iOS, that will hel
 
 The Fujifilm is one of the most used printers since it’s small and compact so that you carry it around everywhere you go.
 
+![](https://i5.walmartimages.ca/images/Enlarge/351/930/6000200351930.jpg)
+
 Also, Fujifilm has its own laminated films that come with different options; wild, classic, chromes, and even colorful backgrounds. 
 
 ![](https://www.kamera-express.be/media/c36f365f-2eba-4a99-bf1d-4a4afe78d36c/Geen%20naam.jpg.aspx)
