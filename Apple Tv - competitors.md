@@ -13,7 +13,7 @@ The TV app is also available on other platforms such as Amazon Fire TV and Roku.
 
 # Amazon Fire TV
 
-![](https://i.insider.com/5bf5d187d1e8445117017f51?width=1100&format=jpeg&auto=webp)
+![](https://i.redd.it/an7tbzxpd3i31.png)
 
 The Amazon Fire TV plays the role of an influencer when the time comes to chose a movie or a tv show. 
 
@@ -37,7 +37,7 @@ It offers access to a numerous streaming content in a 4K resolution.
 
 Roku has it own free to watch streaming channel that has films and TV shows from studios like Columbia and Paramount.
 
-[The subscription starts at $49,99/year](https://www.roku.com)
+[https://pbs.twimg.com/profile_images/1132026084579352577/X6-TY5ah.png)
 
 
 
