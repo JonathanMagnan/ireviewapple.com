@@ -1,5 +1,5 @@
 
-#iPhone Accessories
+# iPhone Accessories
 
 In order to enhance your iPhone capacity and efficacity, there are accessories on the market that will help you out. The numerous variety of accessories will even make it hard for you to keep up!
 
@@ -27,13 +27,15 @@ There is a variety of wireless photo printers compatible with iOS, that will hel
 
 The Fujifilm is one of the most used printers since it’s small and compact so that you carry it around everywhere you go.
 
-[Shop here](https://www.amazon.ca/-/fr/dp/B01GTKG5Z8/ref=twister_B01K3EPNKE?_encoding=UTF8&psc=1)
-
-Also, Fujifilm has its own laminated sheets that come with different options; wild, classic, chromes, and even colorful backgrounds. 
+Also, Fujifilm has its own laminated films that come with different options; wild, classic, chromes, and even colorful backgrounds. 
 
 ![](https://www.kamera-express.be/media/c36f365f-2eba-4a99-bf1d-4a4afe78d36c/Geen%20naam.jpg.aspx)
 
-##Music
+[Shop printer here](https://www.amazon.ca/-/fr/dp/B01GTKG5Z8/ref=twister_B01K3EPNKE?_encoding=UTF8&psc=1)
+
+[Shop films here](https://www.amazon.ca/Fujifilm-Instax-Twin-Pack-Exposures/dp/B00EB4ADQW/ref=pd_bxgy_img_2/136-2284023-8459600?_encoding=UTF8&pd_rd_i=B00EB4ADQW&pd_rd_r=6c169bfd-3c89-470d-ae84-ffc12109f591&pd_rd_w=CStdx&pd_rd_wg=8bVVR&pf_rd_p=651c6196-5161-4602-81e9-26b0f9bf89e1&pf_rd_r=6GNMNXM90FFDZWWR7BAV&psc=1&refRID=6GNMNXM90FFDZWWR7BAV)
+
+## Music
 
 ![](https://images-na.ssl-images-amazon.com/images/I/61JUtJNaYCL._AC_SX466_.jpg)
 
