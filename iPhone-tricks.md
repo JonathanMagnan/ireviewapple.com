@@ -7,7 +7,7 @@ However, you may not be using your iPhone to its fullest potential.
 
 That said, the iPhone can do a lot, but many of its best features are buried in various menus you may not even know about. 
 
-The following tricks will make your life, even more*easier*!
+The following tricks will make your life, even *more easier*!
 
 ## Backups
 
@@ -52,7 +52,7 @@ Here is a short-cut while looking to pull a website in a *hurry*:by holding down
 If you have website that you viste very often, it would be handy to have them accessible right from you homescreen. This function is available by following this 2 steps:
 
 -  Tap the Share button
--  Tap ‘Add to Home screen’
+-  Tap Add to Home screen
 
 ![](https://cdn.mos.cms.futurecdn.net/gtBToKkHm3WEysuAZ394Qd-768-80.jpg.webp)
 
