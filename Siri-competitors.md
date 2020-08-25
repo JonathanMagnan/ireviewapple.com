@@ -1,4 +1,3 @@
-
 # Siri - Competitors
 
 ![](https://babyconnect.files.wordpress.com/2019/03/hey2.gif)
@@ -14,7 +13,9 @@ During the Annual Digital Assistant IQ Test of August 2019, the company asked th
 ![](https://loupventures.com/wp-content/uploads/2019/08/query-results-768x234.png)
 
 
-# Amazon Alexa App
+# Amazon Alexa
+
+** Supports over 20,000 smart home devices
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNLLce_es-C_3CSbPu5eLcHrAVfx6hId_6mg&usqp=CAU)
 
@@ -24,7 +25,10 @@ This Amazon assistant had the capacity to control compatible smart home devices,
 
 Despite of being able to send voice messages and call other Alexa devices, it cannot send text messages or emails. 
 
+
 # Google Assitant
+
+** Supports over 10,000 smart home devices
 
 ![](https://lh3.googleusercontent.com/23TzU98VChGFvna_j2PPl_15Wvw8TksyLcp82Ks3mH3neptwD3vSXzQrqHrDBrLP0To6cE1WKleh7ZvWwP_2OVmPpQ=w1200)
 
