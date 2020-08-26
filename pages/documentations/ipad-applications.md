@@ -7,7 +7,7 @@ A lot of advanced applications are available on the **Apple Store** that can hel
 
 ## iSpring Suite
 
-img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ISpring_Logo.PNG/220px-ISpring_Logo.PNG" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ISpring_Logo.PNG/220px-ISpring_Logo.PNG" width="200">
 
 Did you ever want to show a PowerPoint presentation or PDF on your iPad? The iSpring Suite can make that happen. It lets you edit and annotate your presentations within the app as well. As a bonus, if you have a larger monitor, you will be able to display your presentation on it! All you have to do is use AirPlay to send it from your iPad to the monitor.
 
