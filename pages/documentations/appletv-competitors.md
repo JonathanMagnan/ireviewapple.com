@@ -6,7 +6,7 @@
 
 Apple is getting into the streaming game with a new service called Apple TV+. 
 
-Its content is available exclusively through the Apple TV app, that will allow you to watch it on your iPhone, iPad and Mac. 
+Its content is available exclusively through the Apple TV app, which will allow you to watch it on your iPhone, iPad, and Mac. 
 
 The TV app is also available on other platforms such as Amazon Fire TV and Roku.
 
@@ -31,15 +31,15 @@ Cons:
 
 <img src="https://i.redd.it/an7tbzxpd3i31.png" width="200">
 
-The Amazon Fire TV plays the role of an influencer when the time comes to chose a movie or a tv show. 
+The Amazon Fire TV plays the role of an influencer when the time comes to choosing a movie or a tv show. 
 
 In other words, the menus are strongly geared toward showing Amazon Prime videos and contents. 
 
 However, you will be able to find Netflix programming if you have a subscription apart. 
 
-Just like the Apple TV+, the Fire TV Stick makes it a great option for a second TV or those with a Full HD resolution. 
+Just like the Apple TV+, the Fire TV Stick makes it an excellent option for a second TV or those with a Full HD resolution. 
 
-However the streamer doesn't offer a 4K resolution. 
+However, the streamer doesn't offer a 4K resolution. 
 
 ```
 Pros:
@@ -62,9 +62,9 @@ Cons:
 
 The Streaming Stick Plus from Roku plugs right into an HDMI port on your TV.  
 
-It offers access to a numerous streaming content in a 4K resolution. 
+It offers access to numerous streaming content in a 4K resolution. 
 
-Roku has it own free to watch streaming channel that has films and TV shows from studios like Columbia and Paramount.
+Roku has its own free to watch a streaming channel that has films and TV shows from studios like Columbia and Paramount.
 
 ```
 Pros:
@@ -75,7 +75,7 @@ Pros:
 Cons:
 
 - Only supports HDR-10, not Dolby Vision HDR
-- Bugs witht he voice control
+- Bugs with the voice control
 
 ```
 
