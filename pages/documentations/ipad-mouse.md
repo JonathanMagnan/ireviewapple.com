@@ -17,9 +17,11 @@ And now, you can customize the mouse buttons to your preference.
 
 You can connect any type of mouse to your  iPad that includes the following characteristics: 
 
-Wireless Bluetooth mice
-Wired USB mice (or even PS/2 with adapter)
-Wireless mice that use an RF dongle
+- Wireless Bluetooth mice
+
+- Wired USB mice (or even PS/2 with adapter)
+
+- Wireless mice that use an RF dongle
 
 ## Connecting a Bluetooth Mouse
 
