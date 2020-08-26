@@ -1,10 +1,8 @@
----
-Source: https://www.howtogeek.com/439828/how-to-use-a-mouse-with-your-ipad-or-iphone/
----
+
 # Mouse
 
-After updating your iPad to iPadOS, you will be met able to optimize it by using it it with a whole range of new tools that bring you much closer to leaving the laptop behind.
-that said, this update from iOS 13 and iPadOS brought mouse support as an accessibility feature for the first time to the tablet by using any Bluetooth wireless mouse. 
+After updating your iPad to iPadOS, you will be able to optimize it by using a various range of new tools that bring you much closer to leaving the laptop behind.
+That said, this update from iOS 13 and iPadOS brought mouse support as an accessibility feature for the first time to the tablet by using any Bluetooth wireless mouse. 
 
 ## The Magic Mouse 2
 
@@ -15,7 +13,7 @@ And now, you can customize the mouse buttons to your preference.
 
 ## How to Connect a Mouse to Your iPad
 
-You can connect any type of mouse to your  iPad that includes the following caracteristics: 
+You can connect any type of mouse to your  iPad that includes the following characteristics: 
 
 Wireless Bluetooth mice
 Wired USB mice (or even PS/2 with adapter)
@@ -32,4 +30,3 @@ First, make sure your Bluetooth mouse is nearby and has sufficient charge.
 5. Now set your Bluetooth mouse to discoverable (or pairing mode) and tap on its name when it shows up on your iPad.
 
 ![](https://www.howtogeek.com/wp-content/uploads/2019/09/bluetooth.png.pagespeed.ce.MgGTojyjks.png)
-
