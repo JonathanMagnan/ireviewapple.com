@@ -87,7 +87,7 @@ Cons
 
 [Staring Price: $2999](https://www.apple.com/xf/shop/buy-mac/macbook-pro/13-po)
 
-#iMac 27 Incb
+# iMac 27 Incb
 
 <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdKy8cP6YiDcR9nA5WhD5cdKSxwSFlTuuaK41WQYo9A9LgJzjdND0&usqp=CAc" width="300">
 
@@ -113,7 +113,7 @@ Cons
 
 [Staring Price: $2399](https://www.apple.com/ca/shop/buy-mac/imac)
 
-#iMac Pro
+# iMac Pro
 
 <img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imacpro-27-retina-config-hero?wid=394&hei=330&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1584055611394" width="300">
 
