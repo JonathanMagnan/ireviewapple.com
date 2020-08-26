@@ -18,7 +18,7 @@ https://bestreviews.com/best-ipads
 
 ## Price compare for iPad Mini 5
 
-!<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.22.35_pm.png?itok=3LkvH9ji" width="300">
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.22.35_pm.png?itok=3LkvH9ji" width="300">
 
 Apple Insider:
 https://prices.appleinsider.com/ipad-mini-5
