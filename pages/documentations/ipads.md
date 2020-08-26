@@ -15,7 +15,9 @@ However, among all these products, it is sometimes challenging to opt for a gene
 
 ## Comparison
 
-**iPad the first Generation**
+### iPad the first Generation
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD2010_1_2.jpg?itok=wPY0JjBG" width="300">
 
 Even if Apple no longer manufactures the 3 first generations, they are still pretty useful! 
 
@@ -33,9 +35,9 @@ Distinction: Black front bezel, 30 pin connector, SIM tray (standard size)
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD2010_1_2.jpg?itok=wPY0JjBG" width="300">
+### iPad the second Generation (2)
 
-**iPad the second Generation (2)**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD2010_1_2.jpg?itok=wPY0JjBG" width="300">
 
 ```
 
@@ -49,9 +51,9 @@ Distinction: white or black front bezel, 30 pin connector, micro-SIM tray on the
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD2010_1_2.jpg?itok=wPY0JjBG" width="300">
+### iPad the third Generation (3)
 
-**iPad the third Generation (3)**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad3rdgen_2.jpg?itok=M8C3WZzD" width="300">
 
 ```
 
@@ -68,9 +70,9 @@ Wi-Fi/ Cellular
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad3rdgen_2.jpg?itok=M8C3WZzD" width="300">
+### iPad the forth Generation (4)
 
-**iPad the forth Generation (4)**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD4THGEN_2.jpg?itok=un0vAsgc" width="300">
 
 ```
 
@@ -84,9 +86,9 @@ Distinction: you have the option between a white or s black front bezel. A 9.7-i
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD4THGEN_2.jpg?itok=un0vAsgc" width="300">
+### iPad the Fifth Generation (5)
 
-**iPad the Fifth Generation (5)**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad5thgen_2.jpg?itok=LJjiDLSM" width="300">
 
 ```
 
@@ -101,9 +103,9 @@ aluminum casing in silver, gold, or space gray.
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad5thgen_2.jpg?itok=LJjiDLSM" width="300">
+### iPad the sixth Generation (6)
 
-**iPad the sixth Generation (6)**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/screen_shot_2018-12-17_at_3.07.32_pm.png?itok=A5PpJzOH" width="300">
 
 ```
 
@@ -118,9 +120,9 @@ nano-SIM tray on right side for Wi-Fi and Cellular, FaceTime HD and 8MP cameras,
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/screen_shot_2018-12-17_at_3.07.32_pm.png?itok=A5PpJzOH" width="300">
+### iPad the seventh Generation (7)
 
-**iPad the seventh Generation (7)**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/seventh_generation_ipad.jpeg?itok=7jNxWrLo" width="300"> 
 
 ```
 
@@ -136,9 +138,6 @@ first-generation Apple Pencil support, Smart Keyboard support.
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/seventh_generation_ipad.jpeg?itok=7jNxWrLo" width="300"> 
-
----
 # iPad Air
 
 The regular iPad and the iPad Air models offer a similar design. However, there are differences under the hood.
@@ -149,7 +148,9 @@ The iPad Air is thinner, more powerful, and has a bigger screen, including a res
 
 ## Comparison
 
-**iPad Air**
+### iPad Air
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPADAIR_2.jpg?itok=vP-fQocx" width="300">
 
 ```
 
@@ -162,9 +163,10 @@ Capacity: 16, 32, 64, 128 GB
 Distinction: White or black front bezel, 9.7-inch Retina Display, Lightning connector, nano-SIM tray on the right side, a Touch ID, FaceTime HD and iSight cameras, aluminum housing in space gray or silver.
 
 ```
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPADAIR_2.jpg?itok=vP-fQocx" width="300">
 
-**iPad Air 2**
+### iPad Air 2
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadair2_2.jpg?itok=5uAd9IDy" width="300">
 
 ```
 
@@ -179,9 +181,9 @@ Touch ID, FaceTime HD, and iSight cameras, aluminum housing in space gray, silve
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadair2_2.jpg?itok=5uAd9IDy" width="300">
+### iPad Air 3
 
-**iPad Air 3**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.27.46_pm.png?itok=KjxAJCp9" width="300">
 
 ```
 
@@ -196,9 +198,6 @@ Lightning connector with a nano-SIM tray on the right side, Touch ID, support fo
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.27.46_pm.png?itok=KjxAJCp9" width="300">
-
----
 # iPad Mini
 
 The iPad mini models are appealing for their size since the model is small enough to be carried in a bag.
@@ -211,7 +210,9 @@ Also, the latest version of the iPad Mini  **supports Apple's Smart Keyboard.
 
 ## Comparison
 
-**iPad Mini**
+### iPad Mini
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini_2.jpg?itok=QCvczwDA" width="300">
 
 ```
 
@@ -225,9 +226,9 @@ Distinction: the option of a white or black front bezel. Lightning connector, na
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini_2.jpg?itok=QCvczwDA" width="300">
+### iPad Mini 2
 
-**iPad Mini 2**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini2_2.jpg?itok=HrERiU5A" width="300">
 
 ```
 
@@ -241,9 +242,9 @@ Distinction: White or black front bezel, 7.9-inch Retina Display, Lightning conn
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini2_2.jpg?itok=HrERiU5A" width="300">
+### iPad Mini 3
 
-**iPad Mini 3**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini3_2.jpg?itok=ASIoXX5" width="300"> 
 
 ```
 
@@ -257,9 +258,9 @@ Distinction: White or black front bezel, 7.9-inch Retina Display, Lightning conn
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini3_2.jpg?itok=ASIoXX5" width="300">
+### iPad Mini 4
 
-**iPad Mini 4**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini4_2.jpg?itok=uqhbTGA8" width="300">
 
 ```
 
@@ -274,9 +275,9 @@ FaceTime HD and iSight cameras, aluminum housing in space gray, silver, or gold.
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini4_2.jpg?itok=uqhbTGA8" width="300">
+### iPad Mini 5
 
-**iPad Mini 5**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.22.35_pm.png?itok=3LkvH9ji" width="300">
 
 ```
 
@@ -291,10 +292,6 @@ nano-SIM tray on right side, Touch ID, first-generation Apple Pencil support.
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.22.35_pm.png?itok=3LkvH9ji" width="300">
-
----
-
 # iPad Pro
 
 As stated in the name of this model, the Pro version includes the most significant changes Apple has made to its tablets in years.
@@ -305,7 +302,9 @@ Furthermore, it has a USB-C instead of Lightning, Face ID instead of Touch ID, a
 
 ## Comparison
 
-**iPad Pro 12.9 inch**
+### iPad Pro 12.9 inch
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro12.9inch.jpg?itok=VNEbqW4Q" width="300">
 
 ```
 
@@ -320,9 +319,9 @@ FaceTime HD camera and iSight camera, aluminum housing in space gray, silver, or
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro12.9inch.jpg?itok=VNEbqW4Q" width="300">
+### iPad Pro 9.7 inch
 
-**iPad Pro 9.7 inch**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro9.7_2.jpg?itok=hQUYgbeo" width="300">
 
 ```
 
@@ -337,9 +336,9 @@ FaceTime HD camera and iSight camera with flash, aluminum housing in space gray,
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro9.7_2.jpg?itok=hQUYgbeo" width="300">
+### iPad Pro 10.5 inch
 
-**iPad Pro 10.5 inch**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro10.5_2.jpg?itok=cpwZ6obs" width="300">
 
 ```
 
@@ -354,11 +353,12 @@ FaceTime HD camera and iSight cameras with flash, aluminum housing in space gray
 
 ```
 
-<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro10.5_2.jpg?itok=cpwZ6obs" width="300">
+### iPad Pro 12.9-inch *2nd Generation*
 
-**iPad Pro 12.9-inch <u>2nd Generation</u>**
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro12.9_2.jpg?itok=tPjlgXTE" width="300">
 
-```table
+```
+
 Year: 2017
 
 Model: A1670, A1671 Wi-Fi, and Cellular.
@@ -368,12 +368,15 @@ Capacity: 64, 256, 512 GB
 Distinction: White or black front bezel, 12.9-inch Retina Display, True Tone display technology, 
 ProMotion technology, Wide color display (P3), Lightning connector, Smart Connector, nano-SIM tray on the right side on Wi-Fi and Cellular version, Touch ID, FaceTime HD camera and iSight cameras with flash, 
 aluminum housing in space gray, silver, or gold, four-speaker audio, Apple Pencil support, Smart Keyboard support.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro12.9_2.jpg?itok=tPjlgXTE)
 
-**iPad Pro 12.9-inch
+### iPad Pro 12.9-inch
 
-```table
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad_12.jpg?itok=0NjT3g6F" width="300">
+
+```
+
 Year: 2018
 
 Model: A1876, A2014, A1895, A1983
@@ -381,12 +384,15 @@ Model: A1876, A2014, A1895, A1983
 Capacity:  64, 256, 512 GB, 1 TB
 
 Distinction: Edge-to-edge display, no Home button, black front bezel, 12.9-inch Liquid Retina Display, ProMotion technology, TruTone display, Wide color display (P3), USB-C Connector, Smart Connector, nano-SIM tray on the right side on Wi-Fi and Cellular version, Face ID, TrueDepth camera and 12MP back camera, aluminum housing in space gray or silver, four-speaker audio, 2nd generation Apple Pencil support, Smart Keyboard Folio support.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad_12.jpg?itok=0NjT3g6F)
 
-**iPad Pro 11 inch**
+### iPad Pro 11 inch
 
-```table
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/apple_ipad.jpg?itok=hQNSjWif" width="300">
+
+```
+
 Year: 2018
 
 Model: A1980, A2013, A1934, A1979  
@@ -395,5 +401,5 @@ Capacity: 64GB, 256GB, 512GB, 1TB
 
 Distinction: Edge-to-edge display, no Home button, Face ID, black front bezel, 11-inch Liquid Retina Display, ProMotion technology, Wide Color Display (P3), True Tone Display Technology, 
 aluminum housing in space gray or silver,  USB-C Connector, Smart Connector, nano-SIM tray on the right side on Pro Wi-Fi and Cellular version, TrueDepth camera, 12MP back camera, four-speaker audio, 2nd generation Apple Pencil support, Smart Keyboard Folio support.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/apple_ipad.jpg?itok=hQNSjWif)
