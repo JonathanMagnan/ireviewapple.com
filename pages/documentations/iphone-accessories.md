@@ -7,7 +7,7 @@ The following products are rated among *the best accessories* you can get for yo
 
 ## Cliped lights
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGjc2xjy3bOs1LMYEpWfLmFljGS40UkHOovg&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGjc2xjy3bOs1LMYEpWfLmFljGS40UkHOovg&usqp=CAU" width="200">
 
 The evolution of the front and back camera of the iPhone keeps on getting better from one generation to the other. 
 
@@ -27,11 +27,11 @@ There is a variety of wireless photo printers compatible with iOS, that will hel
 
 The Fujifilm is one of the most used printers since it’s small and compact so that you carry it around everywhere you go.
 
-![](https://i5.walmartimages.ca/images/Enlarge/351/930/6000200351930.jpg)
+<img src="https://i5.walmartimages.ca/images/Enlarge/351/930/6000200351930.jpg" width="150">
 
 Also, Fujifilm has its own laminated films that come with different options; wild, classic, chromes, and even colorful backgrounds. 
 
-![](https://www.kamera-express.be/media/c36f365f-2eba-4a99-bf1d-4a4afe78d36c/Geen%20naam.jpg.aspx)
+<img src="https://www.kamera-express.be/media/c36f365f-2eba-4a99-bf1d-4a4afe78d36c/Geen%20naam.jpg.aspx" width="250">
 
 [Shop printer here](https://www.amazon.ca/-/fr/dp/B01GTKG5Z8/ref=twister_B01K3EPNKE?_encoding=UTF8&psc=1)
 
@@ -39,7 +39,7 @@ Also, Fujifilm has its own laminated films that come with different options; wil
 
 ## Music
 
-![](https://images-na.ssl-images-amazon.com/images/I/61JUtJNaYCL._AC_SX466_.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/61JUtJNaYCL._AC_SX466_.jpg" width="200">
 
 While there are plenty of apps that provide high-quality music streaming, the modern audiophile also wants good sound quality.
 
@@ -51,7 +51,7 @@ What is more exciting about this product is the waterproof feature that you can 
 
 ## Wireless charging
 
-![](https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/AF/9D/425a098d-7b39-4de4-8fe3-cfdfe7d578af.jpg)
+<img src="https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/AF/9D/425a098d-7b39-4de4-8fe3-cfdfe7d578af.jpg" width="200">
 
 Apple finally got on board the wireless charging train. Beginning with the iPhone 8 and iPhone X, Apple added wireless charging to the iPhone.
 
@@ -69,7 +69,7 @@ Stands are useful for iPhones with Face ID, and to work on your phone while char
 
 ## Tracker
 
-![](https://images-ctfassets.thetileapp.com/zu5ihvi7m05g/5FpCBGJeABh26dGbZHt0wp/6b989c48b9be0b6972b80f24371258d7/Pro_Blk.jpg)
+<img src="https://images-ctfassets.thetileapp.com/zu5ihvi7m05g/5FpCBGJeABh26dGbZHt0wp/6b989c48b9be0b6972b80f24371258d7/Pro_Blk.jpg" width="200">
 
 The Tile Pro water-resistant Bluetooth tracker can help you locate lost items like your keys or phone within a range of 400 feet.
 
