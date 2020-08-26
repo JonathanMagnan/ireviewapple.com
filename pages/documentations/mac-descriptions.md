@@ -115,7 +115,7 @@ Cons
 
 #iMac Pro
 
-![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imacpro-27-retina-config-hero?wid=394&hei=330&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1584055611394)
+<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imacpro-27-retina-config-hero?wid=394&hei=330&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1584055611394" width="300">
 
 The iMac Pro remains among the best all-in-one computers on the market. 
 
