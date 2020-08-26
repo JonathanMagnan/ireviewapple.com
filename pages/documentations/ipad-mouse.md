@@ -6,7 +6,7 @@ That said, this update from iOS 13 and iPadOS brought mouse support as an access
 
 ## The Magic Mouse 2
 
-<img scr="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLA02?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1564098735372" width="200">
+<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLA02?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1564098735372" width="300">
 
 It didn’t work previously, but this wireless mouse from Apple can now be paired with an iPad.
 And now, you can customize the mouse buttons to your preference. 
@@ -31,4 +31,4 @@ First, make sure your Bluetooth mouse is nearby and has sufficient charge.
 4. Tap on “Bluetooth Devices” to start the pairing process.
 5. Now set your Bluetooth mouse to discoverable (or pairing mode) and tap on its name when it shows up on your iPad.
 
-![](https://www.howtogeek.com/wp-content/uploads/2019/09/bluetooth.png.pagespeed.ce.MgGTojyjks.png)
+<img src="https://www.howtogeek.com/wp-content/uploads/2019/09/bluetooth.png.pagespeed.ce.MgGTojyjks.png" width="200">
