@@ -1,6 +1,6 @@
 # Siri - Competitors
 
-<img src="https://babyconnect.files.wordpress.com/2019/03/hey2.gif" width="300">
+<img src="https://babyconnect.files.wordpress.com/2019/03/hey2.gif" width="350">
 
 Apple Siri, Amazon Alexa, and Google Assistant are all getting better at understanding and answering questions. However, all those digital helpers have their strengths, weaknesses, and limits.  
 
@@ -10,7 +10,7 @@ Considering itself as *a research-driven venture capital firm based in Minneapol
 
 During the Annual Digital Assistant IQ Test of August 2019, the company asked the same 800 questions and shared the results:
 
-<img src="https://loupventures.com/wp-content/uploads/2019/08/query-results-768x234.png" width="200">
+<img src="https://loupventures.com/wp-content/uploads/2019/08/query-results-768x234.png" width="300">
 
 # Amazon Alexa
 
@@ -28,7 +28,7 @@ Despite of being able to send voice messages and call other Alexa devices, it ca
 
 ### Supports over 10,000 smart home devices
 
-<img src="https://lh3.googleusercontent.com/ORzWxi-sIo_hCgSa6uzVvBUE4osKUqRVzHnniUUxA2WXD7BnZ95BNVpWFLUTKRyJRdU" width="400">
+<img src="https://lh3.googleusercontent.com/ORzWxi-sIo_hCgSa6uzVvBUE4osKUqRVzHnniUUxA2WXD7BnZ95BNVpWFLUTKRyJRdU" width="200">
 
 Google Assistant is probably the smartest and most dynamic of the personal assistants.
 
