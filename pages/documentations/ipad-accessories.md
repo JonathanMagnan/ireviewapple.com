@@ -2,7 +2,7 @@
 
 Every new iPad supports the Apple Pencil. 
 
-However, it is important to know that not every Apple pencil is the same:
+However, it is essential to know that not every Apple pencil is the same:
 
 ## First Generation
 
@@ -44,14 +44,14 @@ Best Buy: 169$
 
 # How to connect your Pencil to your iPad?
 
-Before starting to use the digital pencil, you will have to configurate it. 
+Before starting to use a digital pencil, you will have to configure it. 
 That said, both generations **pair differently**.
 
 ## First Generation
 
 ```
 1. Make sure the iPad you want to use is on and unlocked, then uncap your Pencil.
-2. Plug in your Pencil to the new iPad.
+2. Plugin your Pencil to the new iPad.
 3. When the Bluetooth Pairing Request appears, tap Pair.
 ```
 
@@ -65,7 +65,7 @@ That said, both generations **pair differently**.
 
 # Apple Pencil battery
 
-Unlike other accessoires from Apple, the Pencil doesn't have a physical charge indicator or LED light on its body.
+Unlike other accessories from Apple, the Pencil doesn't have a physical charge indicator or LED light on its body.
 That said, here are the steps to check its current battery life.
 
 ## First Generation
@@ -80,14 +80,14 @@ That said, here are the steps to check its current battery life.
 ## Second Generation
 
 ```
-For the second generation it is possible to check the battery level in two ways.
+For the second generation, it is possible to check the battery level in two ways.
 First, you can follow the steps above for the first-generation Apple Pencil.
 Second, you can place it on the magnetic charging strip on the iPad Pro. A notification will pop up and show the current battery percentage.
 ```
 
 # How to charge Apple Pencil
 
-Before turning of, the Pencil will naturally give you a charge warning. 
+Before turning off, the Pencil will naturally give you a charge warning. 
 Here are the different steps to charge each generation:
 
 ## First Generation
@@ -118,5 +118,4 @@ For this generation, Apple made it easier to charge. **There's only one way.**
 
 Simply place the Pencil on the wide side of the iPad Pro with the magnetic strip.
 
-It will take up to 30 minutes for the digital pencil to be fully charged. 
-
+It will take up to 30 minutes for the digital Pencil to be fully charged.
