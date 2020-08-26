@@ -23,7 +23,7 @@
 
 - Siri
 	- [Siri](iphone-siri.md)
-	- [Competitors](Siri-competitors.md)
+	- [Competitors](siri-competitors.md)
 
 # Apple Watch
 
