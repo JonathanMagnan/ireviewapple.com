@@ -3,13 +3,13 @@
 
 <img src="https://www.bhphotovideo.com/images/images2500x2500/apple_mwtl2ll_a_13_3_macbook_air_with_1553858.jpg" width="300">
 
-The MacBook Air is the best-selling laptop from the Apple serie.
+The MacBook Air is the best-selling laptop from the Apple series.
 
-This product is loved for it's simple features such as thin, light, powerful enough and the least expensive option in Apple’s laptop lineup.
+This product is loved for its simple features such as thin, light, powerful enough, and the least expensive option in the Apple laptop lineup.
 
 The new 2020 MacBook Air offers the Touch ID and a Retina display as well as being a faster processor for the double storage capacity (Yay!).
 
-In day-to-day , the 2020 MacBook Air offers good battery life. Apple offers two standard configurations that gives you the Core i3, 8GB of RAM, and 256GB of storage. 
+In the day-to-day , the 2020 MacBook Air offers good battery life. Apple offers two standard configurations that give you the Core i3, 8GB of RAM, and 256GB of storage. 
 
 The second configuration upgrades you to the quad-core Core i5 processor and doubles the starting storage to 512GB.
 
@@ -19,7 +19,7 @@ Pros:
 - Faster Processor
 - Larger Trackpad
 - Lighter Model
-- Multiple Color Options built with 100% recyled aluminum
+- Multiple Color Options built with 100% recycled aluminum
 - Retina Display
 - Touch ID/T2 Security/”Hey Siri”
 - Traditional Scissor Switches
@@ -37,13 +37,13 @@ Cons:
 
 <img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp13touch-silver-select-202005?wid=892&hei=820&&qlt=80&.v=1587459986844" width="300">
 
-the new 13-inch MacBook Pro has a lot of similair features of the original Macbook Air. It is thin and light enough to comfortably fit in a backpack or work bag when traveling.
+The new 13-inch MacBook Pro has a lot of similar features of the original Macbook Air. It is thin and light enough to fit in a backpack or work bag when traveling comfortably.
 
-The biggest difference between the Pro and the Air is the Pro's support for the P3 wide color gamut, and the Air supports full standard color, also known as sRGB.
+The most significant difference between the Pro and the Air is the Pro support for the P3 wide color gamut, and the Air supports full standard color, also known as sRGB.
 
-In other words, Pro can display a wider spectrum of colors than the Air. The Touch Bar on this laptop makes all the difference when flipping tabs in Safari, editing photos or texts.
+In other words, Pro can display a wider spectrum of colors than the Air. The Touch Bar on this laptop makes all the difference when flipping tabs in Safari, editing photos, or texts.
 
-Apple offers three standard configurations with Turbo Boost up to 3.9GHz and he starting storage to 256GB.
+Apple offers three standard configurations with Turbo Boost up to 3.9GHz, and the starting storage to 256GB.
 
 ``` Pros:
 
@@ -65,7 +65,7 @@ Cons:
 
 <img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Apple_16_Zoll_MacBook_Pro_wird_nicht_was_wir_erwarten.jpg" width="300">
 
-The MacBook Pro 16 is Apple’s latest high-end notebook. 
+The MacBook Pro 16 is Apple latest high-end notebook. 
 
 Compared to the Macbook Pro 13, it is more powerful due to a better Intel processor and a dedicated AMD graphics processor.
 
@@ -91,11 +91,11 @@ Cons
 
 <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdKy8cP6YiDcR9nA5WhD5cdKSxwSFlTuuaK41WQYo9A9LgJzjdND0&usqp=CAc" width="300">
 
-Apple refreshed the iMac  by creating the 27-inch . This 10th-generation Intel processors, has more of everything; more RAM, more SSD storage, faster AMD GPUs, and True Tone support for the display.
+Apple refreshed the iMac by creating the 27-inch. This 10th-generation Intel processor, has more of everything; more RAM, more SSD storage, faster AMD GPUs, and True Tone support for the display.
 
-To make the vision even brighter, there's also a new nano-texture glass option. The 27-inch iMac offers up to 128GB of fast 2666MHz RAM, double the amount that was available in the prior-generation model. 
+To make the vision even brighter, there is also a new nano-texture glass option. The 27-inch iMac offers up to 128GB of fast 2666MHz RAM, double the amount that was available in the prior-generation model. 
 
-The 21.5-inch iMac is still on the market and it supports up to 32GB of fast 2666MHz RAM.
+The 21.5-inch iMac is still on the market, and it supports up to 32GB of fast 2666MHz RAM.
 
 ``` Pros:
 
@@ -119,7 +119,7 @@ Cons
 
 The iMac Pro remains among the best all-in-one computers on the market. 
 
-Despite of its high price, it is pleasant to fufill the need of a workstation that streamlines your workflow and saves you a lot of time, it’s certainly the price you can justify.
+Despite its high price, it is pleasant to fulfill the need for a workstation that streamlines your workflow and saves you a lot of time; it is undoubtedly the price you can justify.
 
 This *monster* has a Turbo Boost that is up to 4.5GHz and up to 18 cores.
 
