@@ -1,6 +1,10 @@
 # iPad
 
-The iPad is a digital tablet developed by the company Apple. The first generation of this revolutionary technology was born in April 2010. Ever since its first appearance, the product has continued to gain popularity. Thereby, 17 new tablets have emerged over the past 10 years. 
+The iPad is a digital tablet developed by the company Apple. 
+
+The first generation of this revolutionary technology was born in April 2010. 
+
+Ever since its first appearance, the product has continued to gain popularity. Thereby, 17 new tablets have emerged over the past 10 years. 
 
 <img src="https://upload.wikimedia.org/wikipedia/fr/timeline/f1e1f200872515cd1250afb1c9fd54f2.png" width="450">
 
@@ -13,8 +17,12 @@ However, among all these products, it is sometimes challenging to opt for a gene
 
 **iPad the first Generation**
 
-Even if Apple no longer manufactures the 3 first generations, they are still pretty useful! The tablets have the capability of performing some of the everyday tasks that we usually do while using our laptop or desktop. For instance, the tablet can be used as an electronic book console or even a handy recipe book.
-```table
+Even if Apple no longer manufactures the 3 first generations, they are still pretty useful! 
+
+The tablets have the capability of performing some of the everyday tasks that we usually do while using our laptop or desktop. For instance, the tablet can be used as an electronic book console or even a handy recipe book.
+
+```
+
 Year: 2010 -2011
 
 Model: A1219 (Wi-Fi), A1337 (Wi-Fi and 3G)
@@ -22,12 +30,15 @@ Model: A1219 (Wi-Fi), A1337 (Wi-Fi and 3G)
 Capacity: 16, 32, 64 GB
 
 Distinction: Black front bezel, 30 pin connector, SIM tray (standard size)
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD2010_1_2.jpg?itok=wPY0JjBG)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD2010_1_2.jpg?itok=wPY0JjBG" width="300">
 
 **iPad the second Generation (2)**
 
-```table
+```
+
 Year: 2011- 2012
 
 Model: A1395 (Wi-Fi), A1396 (GSM Model), A1397 (CDMA Model)
@@ -35,13 +46,15 @@ Model: A1395 (Wi-Fi), A1396 (GSM Model), A1397 (CDMA Model)
 Capacity: 16, 32, 64 GB
 
 Distinction: white or black front bezel, 30 pin connector, micro-SIM tray on the A1396, FaceTime and rear cameras
+
 ```
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD2010_1_2.jpg?itok=wPY0JjBG)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD2010_1_2.jpg?itok=wPY0JjBG" width="300">
 
 **iPad the third Generation (3)**
 
-```table
+```
+
 Year: 2012
 
 Model: A1416 (Wi-Fi), A1430 (Wi-Fi and Cellular), A1403 (Wi-Fi and Cellular (VZ)
@@ -52,12 +65,15 @@ Distinction: white or black front bezel, 30 pin connector, micro-SIM tray on the
 
 Wi-Fi
 Wi-Fi/ Cellular
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad3rdgen_2.jpg?itok=M8C3WZzD)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad3rdgen_2.jpg?itok=M8C3WZzD" width="300">
 
 **iPad the forth Generation (4)**
 
-```table
+```
+
 Year: 2012- TBD
 
 Model: A1458 (Wi-Fi), A1459 (Wi-Fi and Cellular), A1460 (Wi-Fi and Cellular (MM)
@@ -65,12 +81,15 @@ Model: A1458 (Wi-Fi), A1459 (Wi-Fi and Cellular), A1460 (Wi-Fi and Cellular (MM)
 Capacity: 16, 32, 64, 128 GB
 
 Distinction: you have the option between a white or s black front bezel. A 9.7-inch Retina display, a lightning connector, a micro-SIM tray on the right side, FaceTime HD and iSight cameras.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD4THGEN_2.jpg?itok=un0vAsgc)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPAD4THGEN_2.jpg?itok=un0vAsgc" width="300">
 
 **iPad the Fifth Generation (5)**
 
-```table
+```
+
 Year: 2017
 
 Model: A1822 (Wi-Fi), A1823 (Wi-Fi and Cellular)
@@ -79,12 +98,15 @@ Capacity: 32, 128 GB
 
 Distinction: white or black front bezel, 9.7-inch Retina Display, Lightning connector, nano-SIM tray on the right side, FaceTime HD and iSight cameras, Touch ID, 
 aluminum casing in silver, gold, or space gray.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad5thgen_2.jpg?itok=LJjiDLSM)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad5thgen_2.jpg?itok=LJjiDLSM" width="300">
 
 **iPad the sixth Generation (6)**
 
-```table
+```
+
 Year: 2018
 
 Model: A1893, A1954
@@ -93,13 +115,15 @@ Capacity: 32, 128 GB
 
 Distinction: white or black front bezel, 9.7-inch Retina Display, Lightning connector, 
 nano-SIM tray on right side for Wi-Fi and Cellular, FaceTime HD and 8MP cameras, Touch ID, aluminum housing in silver, gold, or space gray, Apple Pencil support. 
+
 ```
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/screen_shot_2018-12-17_at_3.07.32_pm.png?itok=A5PpJzOH)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/screen_shot_2018-12-17_at_3.07.32_pm.png?itok=A5PpJzOH" width="300">
 
 **iPad the seventh Generation (7)**
 
-```table
+```
+
 Year: 2019
 
 Model:	A2197, A2200, A2198
@@ -109,14 +133,18 @@ Capacity: 32, 128 GB
 Distinction: white or black front bezel, 10.2-inch Retina Display, Lightning Connector, Smart Connector, 
 nano-SIM tray on the right side for Cellular and Wi-Fi, FaceTime HD and 8MP cameras, Touch ID, aluminum housing in silver, gold, or space gray, 
 first-generation Apple Pencil support, Smart Keyboard support.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/seventh_generation_ipad.jpeg?itok=7jNxWrLo) 
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/seventh_generation_ipad.jpeg?itok=7jNxWrLo" width="300"> 
 
 ---
 # iPad Air
 
 The regular iPad and the iPad Air models offer a similar design. However, there are differences under the hood.
+
 For starters, The iPad Air can act as a hotspot with some carriers, sharing its Internet connection over Wi-Fi, Bluetooth, or USB, and also access the Apple App Store. The iPad Air 2 is compatible with various ranges of accessories, including the Apple Pencil.
+
 The iPad Air is thinner, more powerful, and has a bigger screen, including a resolution of 2,224 x 1,668.
 
 ## Comparison
