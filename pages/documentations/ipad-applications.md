@@ -31,7 +31,7 @@ Every business nightmare is a disorganized screen packed with random files. With
 
 ## Box - Cloud Content Management
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Box%2C_Inc._logo.svg/langfr-560px-Box%2C_Inc._logo.svg.png" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Box%2C_Inc._logo.svg/langfr-560px-Box%2C_Inc._logo.svg.png" width="150">
 
 Being able to keep track of your files is a must for any company. 
 It is possible to keep an eye on your files with this secure and user-friendly application anywhere at any time! 
@@ -40,7 +40,7 @@ It is possible to keep an eye on your files with this secure and user-friendly a
 
 ## oDragon Dictation
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dragon_Naturally_Speaking_Logo.png" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dragon_Naturally_Speaking_Logo.png" width="150">
 
 Whether it's for communicating with overseas customers or * to write down* your ideas, **oDragon Dictation** is a life and time saver. 
 This app translates your spoken words into text on your iPad. The application can be used in different languages, therefore, growing your connections! 
@@ -49,7 +49,7 @@ This app translates your spoken words into text on your iPad. The application ca
 
 ## Evernote
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Evernote.svg/langfr-220px-Evernote.svg.png" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Evernote.svg/langfr-220px-Evernote.svg.png" width="150">
 
 **Evernote** is a cross-platform app that is used for various purposes. For starters, it can store all of your files; it is equipped for different note tools; it has a task or project system, and many more features. 
 
