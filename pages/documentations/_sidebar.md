@@ -1,44 +1,34 @@
-# iPad
+### iPad
 
 - [Overview](ipads.md)
-
 - [Applications](ipad-applications.md)
-
 - Accessories
 	- [Accessories](ipad-accessories.md)
 	- [Keyboard](ipad-keyboard.md)
 	- [Mouse](ipad-mouse.md)
-	
 - [Pricing](ipads-pricing.md)
 
-# iPhone
+### iPhone
 
 - [Overview](iphone-models.md)
-
 - [Applications](iphone-applications.md)
-
 - [Accessories](iphone-accessories.md)
-
 - [Hacks](iphone-tricks.md)
-
 - Siri
 	- [Siri](iphone-siri.md)
 	- [Competitors](siri-competitors.md)
 
-# Apple Watch
+### Apple Watch
 
 - [Overview](applewatch-intro.md)
-
 - [Hacks](applewatch-guide.md)
-
 - [Competitor](applewatch-competitors.md)
 
-# Apple TV
+### Apple TV
 
 - [Overview](appletv-models.md)
-
 - [Competitor](appletv-competitors.md)
 
-# Mac
+### Mac
 
 - [Overview](mac-descriptions.md)

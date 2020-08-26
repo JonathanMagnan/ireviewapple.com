@@ -1,1 +1,1 @@
-- [IPads](documentations/ipads.md)
+- [Apple Product](documentations/ipads.md)
