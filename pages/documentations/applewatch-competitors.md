@@ -15,9 +15,23 @@ This line of watches is excellent for outdoor activities. However, its capacitie
 
 Compared to Apple, Casio doesn't offer the basic activity tracker, such as the heart rate, Active Minutes, and Calories Intake Burned.
 
-[For further information](https://www.gadgetsnow.com/compare-smartwatch/Apple-Watch-Series-4-44mm-vs-Casio-WSD-F20-PRO-TREK-Smart)
+```
 
-# Fitbit Versa
+Pros:
+
+- Offline GPS support when there is no internet
+- Dual Display Mode
+- Battery Efficient
+
+Cons: 
+
+- No heart rate monitoring
+- Expensive
+- Heavy
+
+```
+
+# Fitbit Versa 2
 
 <img src="https://cdn05.zipify.com/YzWukaE5dBf29TRVLecStOgln6k=/fit-in/2048x0/c6234f9b634745798cb7b4e784c65b1b/da7eacbe-ae24-48b1-8468-2121cfeae381-__cr0-0-1464-600_pt0_sx1464_v1___-1.jpg" width="400">
 
@@ -27,7 +41,21 @@ However, if you are planning on leaving your phone while doing outdoor activitie
 
 Regarding the storage, the Fitbit has 2.5GB of storage set aside for music, while the Apple Watch has 8GB for music on the LTE model (2GB if you have a non-LTE version).
 
-[For further information](https://www.gadgetsnow.com/compare-smartwatch/Apple-Watch-vs-Fitbit-Versa)
+```
+
+Pros:
+
+- Compatible with third-party apps
+- Wrist motion detection
+- Precise activty tracking
+
+Cons: 
+
+- Fitbit’s software on your computer allows you to have up to 300 songs
+- Expensive
+- Short battery life
+
+```
 
 # Fossil Q
 
@@ -37,6 +65,22 @@ Like the Apple Watch, Fossil Smartwatches offer fitness tracking, BUT it has to 
 
 The watch kind of loses it's credibility and becomes an *ordinary watch* when it's not connected. 
 
+```
+
+Pros:
+
+- Compatible with iOS and Android
+- sensor for automatically adjusting display brightnes
+- Precise activty tracking
+
+Cons: 
+
+- No heart rate monitor
+- Bulky design
+- Battery life
+
+```
+
 # Samsung Gear S2
 
 <img src="https://images.samsung.com/is/image/samsung/p5/ca/wearables/gear-s2/features/gears2_design_atelier-mendini.jpg?$ORIGIN_JPG$" width="400">
@@ -44,3 +88,19 @@ The watch kind of loses it's credibility and becomes an *ordinary watch* when it
 The strongest rival of the Apple watch would be the Samsung version. The Galaxy Watch is compatible with both android and iOS, while the Apple Watch can only be used with an iPhone. 
 
 Samsung and Apple have taken different approaches to Smartwatches design; Samsung has a traditional round while Apple has a squarish stainless steam model.
+
+```
+
+Pros:
+
+- Voice activation capabilities
+- Wireless charging station
+- Rotation bezel
+
+Cons: 
+
+- Lack of fitness track
+- Lackof sleep track
+- Battery life
+
+```
