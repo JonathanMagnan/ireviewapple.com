@@ -64,7 +64,4 @@ https://bestreviews.com/best-ipads
 
 It is not surprising that over the past 10 years, Apple came up with different versions, models and generations of iPads.
 That said, sometimes it's easy to get lost between all those technologies and wonder if your current table is up to date. 
-For that matter, the website **Photo Price**  will show you the value of your tablet over the years. 
-
-http://www.photoprice.ca/~Apple-Tablets
-
+For that matter, the website [Photo Price](http://www.photoprice.ca/~Apple-Tablets) will show you the value of your tablet over the years. 
