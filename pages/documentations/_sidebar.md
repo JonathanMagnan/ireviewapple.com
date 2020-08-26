@@ -17,7 +17,7 @@
 
 - [Applications](iphone-applications.md)
 
-- [Accessories] (iphone-accessories.md)
+- [Accessories](iphone-accessories.md)
 
 - [Hacks](iphone-tricks.md)
 
