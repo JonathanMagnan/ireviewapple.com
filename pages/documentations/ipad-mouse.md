@@ -6,7 +6,7 @@ That said, this update from iOS 13 and iPadOS brought mouse support as an access
 
 ## The Magic Mouse 2
 
-<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLA02?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1564098735372" width="300">
+<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLA02?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1564098735372" width="250">
 
 It didn’t work previously, but this wireless mouse from Apple can now be paired with an iPad.
 And now, you can customize the mouse buttons to your preference. 
