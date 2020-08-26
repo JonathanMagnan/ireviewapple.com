@@ -31,4 +31,4 @@ First, make sure your Bluetooth mouse is nearby and has sufficient charge.
 4. Tap on “Bluetooth Devices” to start the pairing process.
 5. Now set your Bluetooth mouse to discoverable (or pairing mode) and tap on its name when it shows up on your iPad.
 
-<img src="https://www.howtogeek.com/wp-content/uploads/2019/09/bluetooth.png.pagespeed.ce.MgGTojyjks.png" width="200">
+<img src="https://www.howtogeek.com/wp-content/uploads/2019/09/bluetooth.png.pagespeed.ce.MgGTojyjks.png" width="300">
