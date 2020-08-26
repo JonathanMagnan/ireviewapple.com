@@ -9,7 +9,7 @@ However, it is important to know that not every Apple pencil is the same:
 
 ## First Generation
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Apple_Pencil.jpg/520px-Apple_Pencil.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Apple_Pencil.jpg/520px-Apple_Pencil.jpg" width="400">
 
 The **First-Generation** is compatible with the following tablets: 
 
@@ -103,7 +103,7 @@ Here are the different steps to charge each generation:
 3. Plug the Lightning adapter into your Lightning cable.
 
 ```
- ![](https://www.imore.com/sites/imore.com/files/styles/larger/public/field/image/2015/12/apple-pencil-charging-adapter-screens.jpg?itok=ekvlSDUB)
+<img src="https://www.imore.com/sites/imore.com/files/styles/larger/public/field/image/2015/12/apple-pencil-charging-adapter-screens.jpg?itok=ekvlSDUB" width="500">
 
 **Charging with the iPad Pro**
 
