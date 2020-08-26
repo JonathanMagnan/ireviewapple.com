@@ -43,7 +43,7 @@ There are plenty of applications to keep you in shape, to work on new healthy ha
 
 ## Strava
 
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/14/58/14/14581472-3606-6117-52a6-98462be6f001/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" width="200">
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/14/58/14/14581472-3606-6117-52a6-98462be6f001/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" width="150">
 
 Strava works as a GPS app that runners can use to track their workouts routine. 
 
