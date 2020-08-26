@@ -3,6 +3,12 @@
 
 Choosing an iPad can be hard since Apple continues to develop different models and versions. That said, the following list will guide you through stores and prices. 
 
+It is not surprising that over the past 10 years, Apple came up with different versions, models and generations of iPads.
+
+That said, sometimes it's easy to get lost between all those technologies and wonder if your current table is up to date. 
+
+For that matter, the website [Photo Price](http://www.photoprice.ca/~Apple-Tablets) will show you the value of your tablet over the years. 
+
 ## Price compare for iPad Air 10.5"( 3rd Generation)
 
 <img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.27.46_pm.png?itok=KjxAJCp9" width="300">
@@ -47,9 +53,3 @@ Choosing an iPad can be hard since Apple continues to develop different models a
 [Compare prices from Mac Prices](https://www.macprices.net/ipadpro.shtml) 
 
 [Compare prices Best Reviews](https://bestreviews.com/best-ipads)
-
-## iPad Value
-
-It is not surprising that over the past 10 years, Apple came up with different versions, models and generations of iPads.
-That said, sometimes it's easy to get lost between all those technologies and wonder if your current table is up to date. 
-For that matter, the website [Photo Price](http://www.photoprice.ca/~Apple-Tablets) will show you the value of your tablet over the years. 
