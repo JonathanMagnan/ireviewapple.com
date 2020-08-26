@@ -33,12 +33,12 @@
 
 - [Competitor](applewatch-competitors.md)
 
-Apple TV
+# Apple TV
 
 - [Overview](appletv-models.md)
 
 - [Competitor](appletv-competitors.md)
 
-Mac
+# Mac
 
 - [Overview](mac-descriptions.md)
