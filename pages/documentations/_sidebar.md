@@ -21,8 +21,7 @@
 
 - [Hacks](iphone-tricks.md)
 
-- [Siri]
-
+- Siri
 	- [Siri](iphone-siri.md)
 	- [Competitors](Siri-competitors.md)
 
@@ -42,4 +41,4 @@ Apple TV
 
 Mac
 
-- [Overview] (mac-descriptions.md)
+- [Overview](mac-descriptions.md)
