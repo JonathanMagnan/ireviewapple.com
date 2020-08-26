@@ -31,13 +31,21 @@ Or scroll down to iCloud Backup and click Back Up Now to back up things like app
 
 Surprisingly, the keyboard is not only a regular keyboard! It has more functions that could be very handy!
 
-1. If you want to improve or work on your vocabulary, you can use the Thesaurus. All you have to do is go to General in the main Settings and select Dictionary. Click here and add the one you want to use.
+- **Use the Thesaurus**
 
-2. To avoid auto-correcting words that you frequently use, you can add those words to the Dictionary. First, you can select Text Replacement in the General menu under Settings. Finally, Tap the plus sign and enter the word you want it to remember in both fields.
+If you want to improve or work on your vocabulary, you can use the Thesaurus. All you have to do is go to General in the main Settings and select Dictionary. Click here and add the one you want to use.
+
+- **Add words to the Dictionary**
+
+To avoid auto-correcting words that you frequently use, you can add those words to the Dictionary. First, you can select Text Replacement in the General menu under Settings. Finally, Tap the plus sign and enter the word you want it to remember in both fields.
  
-3. The most convenient trick would be to turn your keyboard into a mouse trackpad, and it's simple! Start typing text in any app, force press on the keyboard, the letters will disappear, and it will let you move your cursor around a block of text.
+- **Keyboard as a mouse trackpad**
 
-4. Another great trick is to sign a document straight from your phone in 4 steps:
+The most convenient trick would be to turn your keyboard into a mouse trackpad, and it's simple! Start typing text in any app, force press on the keyboard, the letters will disappear, and it will let you move your cursor around a block of text.
+
+- **Sign documents**
+
+Another great trick is to sign a document straight from your phone in 4 steps:
 
 - Preview the attachment in the Mail app. 
 - Tap the toolbox icon and then tap the Signature button in the Markup preview. 
