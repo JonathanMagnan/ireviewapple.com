@@ -27,7 +27,7 @@ For instance, you can ask Siri the following questions:
 
 - **To search for photos by time or location**
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/screenshot_smaller_breakpoints_theme_newmango_mobile_1x/public/styles/top_image/public/siri%20photo%20search_0.PNG?itok=sFYX1FXE)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/screenshot_smaller_breakpoints_theme_newmango_mobile_1x/public/styles/top_image/public/siri%20photo%20search_0.PNG?itok=sFYX1FXE" width="200">
 
 ## Mark an event or meeting on your calendar
 
@@ -35,7 +35,7 @@ You can ask your assistant to schedule an appointment for you, by including the 
 
 To help you keep track of your journey, this event will also show up on your notification center. 
 
-![](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/04/ios-12-siri-add-calendar-event-2.jpg)
+<img src="https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/04/ios-12-siri-add-calendar-event-2.jpg" width="200">
 
 **keyword**: *Hey Siri add call with mom tomorrow at 4 PM*
 
@@ -45,7 +45,8 @@ Not only can Siri take appointments or sets alarm for you, but you can also ask 
 
 If you have more than one even matching your request, Siri will go the extra mile by confirming what alarm you meant. 
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/top_image/public/cal%20appt%20siri.png?itok=rS02wJof)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/top_image/public/cal%20appt%20siri.png?itok=rS02wJof" width="200">
+
 
 **keyword**:  *Change my Tuesday appoint at 2 o'clock to 230*
 
