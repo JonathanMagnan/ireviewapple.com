@@ -1,7 +1,7 @@
 
 # iPhone 8 & iPhone 8 Plus
 
-<img src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fgordonkelly%2Ffiles%2F2017%2F09%2FScreenshot-2017-09-13-at-03.21.30.png" width="200">
+<img src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fgordonkelly%2Ffiles%2F2017%2F09%2FScreenshot-2017-09-13-at-03.21.30.png" width="300">
 
 Even if Apple doesn't offer this version, the iPhone 8 and 8 Plus have been one of the most appreciated phone created by Apple. 
 
@@ -19,7 +19,7 @@ Hopefully, this iPhone is still available with or without a phone carrier.
 
 # iPhone X
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/618ZI2Xyw%2BL._AC_SY445_.jpg" width="200">
+<img src="https://images-na.ssl-images-amazon.com/images/I/618ZI2Xyw%2BL._AC_SY445_.jpg" width="150">
 
 Known as *the first of a new generation*, The iPhone X remains a strong device even if it's no longer available at Apple. 
 
@@ -33,7 +33,7 @@ The iPhone X was a celebration of 10 years of the iPhone and it's still availabl
 
 # iPhone 11
 
-<img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBRyyo9IM_a_Rt3T4ZVRI5Ysh2dTDJ5RRx3BThyVw_fuw_usuv6JkJu18JsUcQ3cFvbF__Z4SwrYUsgBr65kghjWBBGrrUNg&usqp=CAc" width="200">
+<img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBRyyo9IM_a_Rt3T4ZVRI5Ysh2dTDJ5RRx3BThyVw_fuw_usuv6JkJu18JsUcQ3cFvbF__Z4SwrYUsgBr65kghjWBBGrrUNg&usqp=CAc" width="150">
 
 Over the years Apple has tried to ace the camera quality.
 
@@ -45,7 +45,7 @@ The night mode helps with better indoor shots, faster autofocus and overall shar
 
 # iPhone 11 Pro
 
-<img src="https://www.bell.ca/Styles/wireless/apple_iphone_11/iPhone_11_Pro_Max_Silver_lrg1.png" width="200">
+<img src="https://www.bell.ca/Styles/wireless/apple_iphone_11/iPhone_11_Pro_Max_Silver_lrg1.png" width="150">
 
 Essentially, the iPhone 11 and 11 Pro are 85% the exact same phone. 
 
@@ -57,7 +57,7 @@ The 3 cameras at the back of the phone offers 2x optical zoom, different size op
 
 # iPhone XR 
 
-<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1550795424612" width="200">
+<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1550795424612" width="150">
 
 The iPhone XR remains a great value, especially if you want a bigger screen.
 
