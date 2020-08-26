@@ -60,6 +60,13 @@ However, Siri continues to prove more useful with phone-related functions like c
 
 Pros:
 
+- Detail oriented answers
+- Supports Google Play Music, YouTube and Spotify
+- Can identify different voices
+
 Cons:
 
+- Able to access all the information
+- Can’t read or send emails or messages
+- No intercom feature
 ```
