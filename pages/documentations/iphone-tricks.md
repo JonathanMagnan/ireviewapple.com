@@ -45,7 +45,7 @@ Surprisingly, the keyboard is not only a regular keyboard! It has more functions
 
 Here is a shortcut while looking to pull a website in a *hurry*: by holding down the period icon on your keyboard, it will bring up a list of URL endings that you could select.
 
-![](https://www.rd.com/wp-content/uploads/2018/02/02_Hidden-iPhone-Hacks-You-Never-Knew-About_Courtesy-Nicole-FornabaioRDDOTcom.jpg) 
+<img src="https://www.rd.com/wp-content/uploads/2018/02/02_Hidden-iPhone-Hacks-You-Never-Knew-About_Courtesy-Nicole-FornabaioRDDOTcom.jpg" width="200">
 
 ## Add websites to your Home screen
 
@@ -54,7 +54,7 @@ If you have a website that you visit very often, it would be handy to have them 
 -  Tap the Share button
 -  Tap Add to Home screen
 
-![](https://cdn.mos.cms.futurecdn.net/gtBToKkHm3WEysuAZ394Qd-768-80.jpg.webp)
+<img src="https://cdn.mos.cms.futurecdn.net/gtBToKkHm3WEysuAZ394Qd-768-80.jpg.webp" width="200">
 
 ## Sign a document with your iPhone
 
@@ -66,7 +66,7 @@ You can simply open the email attachment and follow these steps:
 - Tap the plus sign at the bottom right and pick the signature
 - Sign the document by using your finger
 
-![](https://cdn.mos.cms.futurecdn.net/8R8rTBr73Y63H5NM2UGGMc-768-80.jpg.webp)
+<img src="https://cdn.mos.cms.futurecdn.net/8R8rTBr73Y63H5NM2UGGMc-768-80.jpg.webp" width="200">
 
 ## Hidden shortcuts
 
@@ -74,4 +74,5 @@ This feature is **only for iPhones with a 3D Touch screen or an iPhone 11** ther
 
 o access them, hard-press an app icon. If the application supports this feature, a menu pops out from the icon with a set of shortcuts.
 
-![](https://www.lifewire.com/thmb/aagU4nk6uByXS7Ar02fVuhxGMmo=/1125x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3d-touch-shortcuts-a2979b3341ff418898acabc117f1701f.jpg)
+<img src="https://www.lifewire.com/thmb/aagU4nk6uByXS7Ar02fVuhxGMmo=/1125x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3d-touch-shortcuts-a2979b3341ff418898acabc117f1701f.jpg" width="200">
+
