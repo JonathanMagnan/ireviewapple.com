@@ -1,7 +1,7 @@
 
 # Macbook Air
 
-![](https://www.bhphotovideo.com/images/images2500x2500/apple_mwtl2ll_a_13_3_macbook_air_with_1553858.jpg)
+<img src="https://www.bhphotovideo.com/images/images2500x2500/apple_mwtl2ll_a_13_3_macbook_air_with_1553858.jpg" width="300">
 
 The MacBook Air is the best-selling laptop from the Apple serie.
 
@@ -35,7 +35,7 @@ Cons:
 
 # Macbook Pro 13 in
 
-![](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp13touch-silver-select-202005?wid=892&hei=820&&qlt=80&.v=1587459986844)
+<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp13touch-silver-select-202005?wid=892&hei=820&&qlt=80&.v=1587459986844" width="300">
 
 the new 13-inch MacBook Pro has a lot of similair features of the original Macbook Air. It is thin and light enough to comfortably fit in a backpack or work bag when traveling.
 
@@ -63,7 +63,7 @@ Cons:
 
 # Macbook Pro 16 in
 
-![](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Apple_16_Zoll_MacBook_Pro_wird_nicht_was_wir_erwarten.jpg)
+<img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Apple_16_Zoll_MacBook_Pro_wird_nicht_was_wir_erwarten.jpg" width="300">
 
 The MacBook Pro 16 is Apple’s latest high-end notebook. 
 
@@ -89,7 +89,7 @@ Cons
 
 #iMac 27 Incb
 
-![](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdKy8cP6YiDcR9nA5WhD5cdKSxwSFlTuuaK41WQYo9A9LgJzjdND0&usqp=CAc)
+<img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdKy8cP6YiDcR9nA5WhD5cdKSxwSFlTuuaK41WQYo9A9LgJzjdND0&usqp=CAc" width="300">
 
 Apple refreshed the iMac  by creating the 27-inch . This 10th-generation Intel processors, has more of everything; more RAM, more SSD storage, faster AMD GPUs, and True Tone support for the display.
 
