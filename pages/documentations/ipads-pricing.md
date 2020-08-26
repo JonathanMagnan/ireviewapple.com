@@ -5,7 +5,7 @@ Choosing an iPad can be hard since Apple continues to develop different models a
 
 ## Price compare for iPad Air 10.5"( 3rd Generation)
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.27.46_pm.png?itok=KjxAJCp9)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.27.46_pm.png?itok=KjxAJCp9" width="300">
 
 Apple Insider
 https://prices.appleinsider.com/ipad-air-2019
@@ -18,7 +18,7 @@ https://bestreviews.com/best-ipads
 
 ## Price compare for iPad Mini 5
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.22.35_pm.png?itok=3LkvH9ji)
+!<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.22.35_pm.png?itok=3LkvH9ji" width="300">
 
 Apple Insider:
 https://prices.appleinsider.com/ipad-mini-5
@@ -29,14 +29,14 @@ https://www.macprices.net/ipadmini.shtml
 
 ## Price compare for iPad Pro 10.5"
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro10.5_2.jpg?itok=cpwZ6obs)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro10.5_2.jpg?itok=cpwZ6obs" width="300">
 
 Apple Insider:
 https://prices.appleinsider.com/10-5-ipad-pro
 
 ## Price compare for iPad Pro 11" 
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/apple_ipad.jpg?itok=hQNSjWif)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/apple_ipad.jpg?itok=hQNSjWif" width="300">
 
 Apple Insider: 
 https://prices.appleinsider.com/11-inch-ipad-pro
@@ -49,7 +49,7 @@ https://bestreviews.com/best-ipads
 
 ## Price compare for iPad 12.9"
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad_12.jpg?itok=0NjT3g6F)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipad_12.jpg?itok=0NjT3g6F" width="300">
 
 Apple Insider:
 https://prices.appleinsider.com/12-9-inch-ipad-pro-2018
