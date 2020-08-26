@@ -1,6 +1,3 @@
-
-Source: https://www.imore.com/apple-pencil-ultimate-guide
-
 # Pencil
 
 Every new iPad supports the Apple Pencil. 
@@ -113,7 +110,7 @@ Here are the different steps to charge each generation:
 
 ```
 
-<img src="https://www.imore.com/sites/imore.com/files/styles/larger/public/field/image/2015/12/apple-pencil-charging-screens.jpg?itok=j3f9hN78" width="200">
+<img src="https://www.imore.com/sites/imore.com/files/styles/larger/public/field/image/2015/12/apple-pencil-charging-screens.jpg?itok=j3f9hN78" width="500">
  
 ## Second Generation 
 
