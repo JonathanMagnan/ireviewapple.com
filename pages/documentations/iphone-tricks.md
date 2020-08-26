@@ -83,7 +83,9 @@ You can simply open the email attachment and follow these steps:
 
 This feature is **only for iPhones with a 3D Touch screen or an iPhone 11** there are shortcuts features to some of the most common apps. 
 
-o access them, hard-press an app icon. If the application supports this feature, a menu pops out from the icon with a set of shortcuts.
+You can access them, by hard-pressing an app icon. 
+
+If the application supports this feature, a menu will pop out from the icon with a set of shortcuts.
 
 <img src="https://www.lifewire.com/thmb/aagU4nk6uByXS7Ar02fVuhxGMmo=/1125x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3d-touch-shortcuts-a2979b3341ff418898acabc117f1701f.jpg" width="200">
 
