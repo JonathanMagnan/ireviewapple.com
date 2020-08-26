@@ -54,13 +54,14 @@ If you have more than one even matching your request, Siri will go the extra mil
 
 To keep you organized, Siri can also create a time-based reminder. As simple as it might sound, all you must do is say out loud what you want to be reminded about, and when. 
 
-![](https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/04/reminder-siri.jpg) 
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/04/reminder-siri.jpg" width="450">
+
 
 **keyword**:  *Remind me tomorrow at 10 AM to call my travel agent. *
 
 Also, Siri has the ability to add reminders to specific lists by naming the list. 
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/screenshot_smaller_breakpoints_theme_newmango_mobile_1x/public/styles/top_image/public/siri%20reminders-lists.jpg?itok=F1BYKKhf)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/screenshot_smaller_breakpoints_theme_newmango_mobile_1x/public/styles/top_image/public/siri%20reminders-lists.jpg?itok=F1BYKKhf" width="200">
 
 **keyword**: *Add yogurt to my shopping list*
 
@@ -69,7 +70,7 @@ Also, Siri has the ability to add reminders to specific lists by naming the list
 If you want to keep track of your oven or to time a test, Siri can help you count down a few minutes or a few hours by asking her to "set time."
 Also, Siri gives you the option to check the time left by saying, “Check timer.”, or to cancel it. “Stop timer.”
 
-![](https://cdn.osxdaily.com/wp-content/uploads/2014/08/start-a-timer-iphone-siri.png)
+<img src="https://cdn.osxdaily.com/wp-content/uploads/2014/08/start-a-timer-iphone-siri.png" width="200">
 
 **keyword**: *Start timer for 15 minutes*
 
@@ -78,9 +79,7 @@ Also, Siri gives you the option to check the time left by saying, “Check timer
 This Apple creation can transcribe your words into texts by simply dictating it. Apple improved this task by allowing Siri to find them and edit them as well. 
 However, the *only* task that Siri will not perform will be to delete the note; you will have to do it manually. 
 
-![](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2016/01/Dictate_Note_siri_screens.jpg)
-
-![](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2016/01/Dictate_Note_siri_screens.jpg)
+<img src="https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2016/01/Dictate_Note_siri_screens.jpg" width="450">
 
 **keyword**: *Take note*
 
@@ -88,6 +87,6 @@ However, the *only* task that Siri will not perform will be to delete the note; 
 
 Siri also can remind you of things you saw. Once you say *remind me of this*, this innovative assistant will add it to Reminders with a link back to not only the app but also the specific content.
 
-![](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2019/04/reminder-siri-this.jpg)
+<img src="https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2019/04/reminder-siri-this.jpg" width="450">
 
 **keyword**: *remind me of*
