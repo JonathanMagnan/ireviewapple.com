@@ -17,7 +17,7 @@ This clipped light is a small gadget that comes in different sizes and shapes th
 
 The 3 different lights intensities will illuminate the subject of a photo when the lighting is less than ideal.
 
-[Shop here](https://www.amazon.ca/dp/B07VHNK9KM/ref=cm_sw_em_r_mt_dp_zfSqFbVK8Q4E0)
+[Starting price: $14,99](https://www.amazon.ca/dp/B07VHNK9KM/ref=cm_sw_em_r_mt_dp_zfSqFbVK8Q4E0)
 
 ## portable photo printer
 
@@ -33,9 +33,9 @@ Also, Fujifilm has its own laminated films that come with different options; wil
 
 <img src="https://www.kamera-express.be/media/c36f365f-2eba-4a99-bf1d-4a4afe78d36c/Geen%20naam.jpg.aspx" width="250">
 
-[Shop printer here](https://www.amazon.ca/-/fr/dp/B01GTKG5Z8/ref=twister_B01K3EPNKE?_encoding=UTF8&psc=1)
+[Starting price: $199](https://www.amazon.ca/-/fr/dp/B01GTKG5Z8/ref=twister_B01K3EPNKE?_encoding=UTF8&psc=1)
 
-[Shop films here](https://www.amazon.ca/Fujifilm-Instax-Twin-Pack-Exposures/dp/B00EB4ADQW/ref=pd_bxgy_img_2/136-2284023-8459600?_encoding=UTF8&pd_rd_i=B00EB4ADQW&pd_rd_r=6c169bfd-3c89-470d-ae84-ffc12109f591&pd_rd_w=CStdx&pd_rd_wg=8bVVR&pf_rd_p=651c6196-5161-4602-81e9-26b0f9bf89e1&pf_rd_r=6GNMNXM90FFDZWWR7BAV&psc=1&refRID=6GNMNXM90FFDZWWR7BAV)
+[Starting price: $12,99](https://www.amazon.ca/Fujifilm-Instax-Twin-Pack-Exposures/dp/B00EB4ADQW/ref=pd_bxgy_img_2/136-2284023-8459600?_encoding=UTF8&pd_rd_i=B00EB4ADQW&pd_rd_r=6c169bfd-3c89-470d-ae84-ffc12109f591&pd_rd_w=CStdx&pd_rd_wg=8bVVR&pf_rd_p=651c6196-5161-4602-81e9-26b0f9bf89e1&pf_rd_r=6GNMNXM90FFDZWWR7BAV&psc=1&refRID=6GNMNXM90FFDZWWR7BAV)
 
 ## Music
 
@@ -47,7 +47,7 @@ A stylish Bluetooth speaker would be the solution for our ears! The WONDERBOOM s
 
 What is more exciting about this product is the waterproof feature that you can enjoy, at the pool, in the shower, or even on a rainy stroll!
 
-[Shop here](https://www.amazon.com/Ultimate-Ears-WONDERBOOM-Waterproof-Bluetooth/dp/B06XH3PWSF)
+[Starting price: $69](https://www.amazon.com/Ultimate-Ears-WONDERBOOM-Waterproof-Bluetooth/dp/B06XH3PWSF)
 
 ## Wireless charging
 
@@ -61,11 +61,11 @@ A pad is a good idea for your bed-side table or lying on your desk, but there ar
 
 Stands are useful for iPhones with Face ID, and to work on your phone while charging.
 
-[Shop Stand charger here](https://www.amazon.ca/dp/B0753Z4PGC/ref=cm_sw_em_r_mt_dp_3dTqFb9WXRMJJ)
+[Stand charger starting price: $35,99](https://www.amazon.ca/dp/B0753Z4PGC/ref=cm_sw_em_r_mt_dp_3dTqFb9WXRMJJ)
 
-[Shop Pad charger here](https://www.amazon.ca/dp/B00C40OG22/ref=cm_sw_em_r_mt_dp_DdTqFbCWFG36N)
+[Pad charger starting price: $16,99](https://www.amazon.ca/dp/B00C40OG22/ref=cm_sw_em_r_mt_dp_DdTqFbCWFG36N)
 
-[Shop the combo](https://www.amazon.ca/dp/B085LBL7VJ/ref=cm_sw_em_r_mt_dp_27SqFbKH4KP0C)
+[Combo starting price: $49,99](https://www.amazon.ca/dp/B085LBL7VJ/ref=cm_sw_em_r_mt_dp_27SqFbKH4KP0C)
 
 ## Tracker
 
@@ -79,4 +79,4 @@ What's more extraordinary is that even when it’s in silent mode, your phone ca
 
 This tracker can even give you the option to track lost items on a map displayed on your phone.
 
-[Shop here](https://www.amazon.ca/dp/B07W9B83YV/ref=cm_sw_em_r_mt_dp_EgTqFbVH8NNDS)
+[starting price: $43,99](https://www.amazon.ca/dp/B07W9B83YV/ref=cm_sw_em_r_mt_dp_EgTqFbVH8NNDS)
