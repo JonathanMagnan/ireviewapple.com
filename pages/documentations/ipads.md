@@ -151,7 +151,8 @@ The iPad Air is thinner, more powerful, and has a bigger screen, including a res
 
 **iPad Air**
 
-```table
+```
+
 Year: Late 2013-2016
 
 Model: A1474 Wi-Fi, A1475 Wi-Fi and Cellular, A1476 Wi-Fi, Cellular (TD-LTE)
@@ -159,13 +160,14 @@ Model: A1474 Wi-Fi, A1475 Wi-Fi and Cellular, A1476 Wi-Fi, Cellular (TD-LTE)
 Capacity: 16, 32, 64, 128 GB
 
 Distinction: White or black front bezel, 9.7-inch Retina Display, Lightning connector, nano-SIM tray on the right side, a Touch ID, FaceTime HD and iSight cameras, aluminum housing in space gray or silver.
-2013-2016
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPADAIR_2.jpg?itok=vP-fQocx)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/IPADAIR_2.jpg?itok=vP-fQocx" width="300">
 
 **iPad Air 2**
 
-```table
+```
+
 Year: Late 2014
 
 Model: A1566, A1567 Wi-Fi and Cellular 
@@ -174,12 +176,15 @@ Capacity: 16, 32, 64, 128 GB
 
 Distinction: White or black front bezel, 9.7-inch Retina Display, Lightning connector, nano-SIM tray on the right side, 
 Touch ID, FaceTime HD, and iSight cameras, aluminum housing in space gray, silver, or gold.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadair2_2.jpg?itok=5uAd9IDy)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadair2_2.jpg?itok=5uAd9IDy" width="300">
 
 **iPad Air 3**
 
-```table
+```
+
 Year: 2019
 
 Model: A2152, A2123, A2153, A2154
@@ -188,23 +193,28 @@ Capacity: 64GB, 256GB
 
 Distinction: 10.5-inch Retina display, wide color display, True Tone display technology, aluminum housing in silver, space gray, or gold, 
 Lightning connector with a nano-SIM tray on the right side, Touch ID, support for first-generation Apple Pencil, and Smart Keyboard.
+
 ```
 
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.27.46_pm.png?itok=KjxAJCp9)
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.27.46_pm.png?itok=KjxAJCp9" width="300">
 
 ---
 # iPad Mini
 
-The iPad mini models are appealing for their size since the model is small enough to be carried in a bag. 
+The iPad mini models are appealing for their size since the model is small enough to be carried in a bag.
+
 Also, It has a 7.9-inch screen, weighs 0.66 pounds, and measures less than a quarter of an inch thick. 
+
 The iPad mini is also remarkable for its power as strong as the regular models.   
+
 Also, the latest version of the iPad Mini  **supports Apple's Smart Keyboard.
 
 ## Comparison
 
 **iPad Mini**
 
-```table
+```
+
 Year: Late 2012
 
 Model: A1432 Wi-Fi, A1454 Wi-Fi and Cellular, A1455 Wi-Fi and Cellular (MM)
@@ -212,12 +222,15 @@ Model: A1432 Wi-Fi, A1454 Wi-Fi and Cellular, A1455 Wi-Fi and Cellular (MM)
 Capacity: 16, 32, 64 GB
 
 Distinction: the option of a white or black front bezel. Lightning connector, nano-SIM tray on the left side, FaceTime HD and iSight cameras, aluminum housing in slate or silver.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini_2.jpg?itok=QCvczwDA)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini_2.jpg?itok=QCvczwDA" width="300">
 
 **iPad Mini 2**
 
-```table
+```
+
 Year: Late 2013
 
 Model: A1489 Wi-Fi, A1490 Wi-Fi and Cellular, A1491 Wi-Fi and Cellular (TD-LTE)
@@ -225,12 +238,15 @@ Model: A1489 Wi-Fi, A1490 Wi-Fi and Cellular, A1491 Wi-Fi and Cellular (TD-LTE)
 Capacity: 16, 32, 64, 128 GB
 
 Distinction: White or black front bezel, 7.9-inch Retina Display, Lightning connector, nano-SIM tray on the left side, FaceTime HD and iSight cameras, aluminum housing in space gray or silver.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini2_2.jpg?itok=HrERiU5A)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini2_2.jpg?itok=HrERiU5A" width="300">
 
 **iPad Mini 3**
 
-```table
+```
+
 Year: Late 2014
 
 Model: A1599, A1600 Wi-Fi and Cellular
@@ -238,12 +254,15 @@ Model: A1599, A1600 Wi-Fi and Cellular
 Capacity: 16, 64, 128 GB
 
 Distinction: White or black front bezel, 7.9-inch Retina Display, Lightning connector, nano-SIM tray on the left side, Touch ID, FaceTime HD and iSight cameras, aluminum housing in space gray, silver, or gold.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini3_2.jpg?itok=ASIoXX5_)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini3_2.jpg?itok=ASIoXX5" width="300">
 
 **iPad Mini 4**
 
-```table
+```
+
 Year: Late 2015
 
 Model: A1538, A1550 Wi-Fi and Cellular
@@ -252,12 +271,15 @@ Capacity: 16, 32, 64, 128 GB
 
 Distinction: White or black front bezel, 7.9-inch Retina Display, Lightning connector, nano-SIM tray on the right side, Touch ID, 
 FaceTime HD and iSight cameras, aluminum housing in space gray, silver, or gold.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini4_2.jpg?itok=uqhbTGA8)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadmini4_2.jpg?itok=uqhbTGA8" width="300">
 
 **iPad Mini 5**
 
-```table
+```
+
 Year: 2019
 
 Model: A2133, A2124, A2126, A2125
@@ -266,21 +288,27 @@ Capacity: 64GB, 256GB
 
 Distinction: 7.9-inch Retina display, complete color display, True Tone display technology, aluminum housing comes in silver, space gray, or gold, lightning connector, 
 nano-SIM tray on right side, Touch ID, first-generation Apple Pencil support.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.22.35_pm.png?itok=3LkvH9ji)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/full_width_wide_1x/public/screen_shot_2019-03-20_at_4.22.35_pm.png?itok=3LkvH9ji" width="300">
 
 ---
+
 # iPad Pro
 
-As stated in the name of this model, the Pro version includes the most significant changes Apple has made to its tablets in years. 
+As stated in the name of this model, the Pro version includes the most significant changes Apple has made to its tablets in years.
+
 This advanced model of iPads runs very smoothly, along with its high-performance gaming and video editing. 
+
 Furthermore, it has a USB-C instead of Lightning, Face ID instead of Touch ID, and the device is more portable.
 
 ## Comparison
 
 **iPad Pro 12.9 inch**
 
-```table
+```
+
 Year: 2015
 
 Model: A1584, A1652 Wi-Fi and Cellular 
@@ -289,12 +317,15 @@ Capacity: 32, 128, 256 GB
 
 Distinction: White or black front bezel, 12.9-inch Retina Display, Lightning port, Smart Connector, nano-SIM tray on the right side, Touch ID, 
 FaceTime HD camera and iSight camera, aluminum housing in space gray, silver, or gold, four-speaker audio, Apple Pencil support, Smart Keyboard support.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro12.9inch.jpg?itok=VNEbqW4Q)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro12.9inch.jpg?itok=VNEbqW4Q" width="300">
 
 **iPad Pro 9.7 inch**
 
-```table
+```
+
 Year: 2016
 
 Model: A1673, A1674 Wi-Fi and Cellular, A1675 Wi-Fi, and Cellular. 
@@ -303,12 +334,15 @@ Capacity: 32, 128, 256 GB
 
 Distinction: White or black front bezel, 9.7-inch Retina Display, True Tone display technology, Lightning connector, Smart Connector, nano-SIM tray on the right side on Wi-Fi and Cellular versions, Touch ID,
 FaceTime HD camera and iSight camera with flash, aluminum housing in space gray, silver, gold, or rose gold, four-speaker audio, Apple Pencil support, Smart Keyboard support.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro9.7_2.jpg?itok=hQUYgbeo)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro9.7_2.jpg?itok=hQUYgbeo" width="300">
 
 **iPad Pro 10.5 inch**
 
-```table
+```
+
 Year: 2017
 
 Model: A1701, A1709 Wi-Fi, and Cellular.
@@ -317,8 +351,10 @@ Capacity: 64, 256, 512 GB
 
 Distinction: White or black front bezel, 10.5-inch Retina Display, True Tone display technology, ProMotion technology, Wide color display (P3), Lightning connector, Smart Connector, nano-SIM tray on the right side on Wi-Fi and Cellular version, Touch ID, 
 FaceTime HD camera and iSight cameras with flash, aluminum housing in space gray, silver, gold, or rose gold, four-speaker audio, Apple Pencil support, Smart Keyboard support.
+
 ```
-![](https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro10.5_2.jpg?itok=cpwZ6obs)
+
+<img src="https://cdn.iphonelife.com/sites/iphonelife.com/files/styles/medium_width_breakpoints_theme_newmango_mobile_1x/public/ipadpro10.5_2.jpg?itok=cpwZ6obs" width="300">
 
 **iPad Pro 12.9-inch <u>2nd Generation</u>**
 
