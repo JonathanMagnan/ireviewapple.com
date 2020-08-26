@@ -63,7 +63,7 @@ This application, developed by Apple, helps coworkers collaborate in real-time, 
 
 ## Zoho Cliq
 
-<img src="https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/cliq-icon.png?itok=WUUj7NU6" width="200">
+<img src="https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/cliq-icon.png?itok=WUUj7NU6" width="150">
 
 This app will allow you to communicate with your team or by private conversation over videos, conferences, file sharing, and chat.
 
