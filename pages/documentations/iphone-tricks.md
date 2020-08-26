@@ -15,13 +15,16 @@ Not to sound dramatic, but our lives depend on the usage of our phones! We rely 
 
 For that matter backing up our phone from time to time would be the best way to avoid the *end of the world*.
 
-1. **Automatically back-up your photos**
+- **Automatically back-up your photos**
+
 You can go back to the main Settings screen and tap your name. Go to iCloud, Photos, and switch iCloud Photos to "on". It will automatically upload all your photos and videos to iCloud.
 
-2. **Automatically back-up your apps**
+- **Automatically back-up your apps**
+
 You can also set other back-ups for things like Mail, Messages, and other individual apps.
 
-3. **Automatically back-up your phone**
+- **Automatically back-up your phone**
+
 Or scroll down to iCloud Backup and click Back Up Now to back up things like app data, settings, and photos.
 
 ## Keyboard
