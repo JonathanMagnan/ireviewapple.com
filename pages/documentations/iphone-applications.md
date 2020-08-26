@@ -91,7 +91,7 @@ It is probably the best password manager in the App Store.
 
 ## Twitter
 
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/langfr-560px-Twitter_Bird.svg.png" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/langfr-560px-Twitter_Bird.svg.png" width="150">
 
 Since its creation, Twitter became essential on the web. It allows you to stay up to date on what is happening in real-time all around the world.
 
@@ -107,7 +107,7 @@ Facebook is one of the most downloaded applications from the app store. This app
 
 ## Instagram
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-440px-Instagram_logo_2016.svg.png" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-440px-Instagram_logo_2016.svg.png" width="150">
 
 Within a few years, Instagram has become as essential as Facebook. Its primary usage will allow you to share pictures, live videos, and stories of your daily activities.
 
