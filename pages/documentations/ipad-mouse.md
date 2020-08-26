@@ -11,7 +11,7 @@ That said, this update from iOS 13 and iPadOS brought mouse support as an access
 It didn’t work previously, but this wireless mouse from Apple can now be paired with an iPad.
 And now, you can customize the mouse buttons to your preference. 
 
-[Starting price: $79 USD](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver?fnode=06b772bdfece5d39b4f7ae103f7b505b947eb5d69cb613f1c743dcb2630d0e38f3c5427e975926cb33dd949ebc666cbb675f395d5237b15502442b8ecc453397983d33e81cdf2c18a41eac7033a0f489cd797683cd6b0829aa3b73a166646714)
+[Starting price: $79](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver?fnode=06b772bdfece5d39b4f7ae103f7b505b947eb5d69cb613f1c743dcb2630d0e38f3c5427e975926cb33dd949ebc666cbb675f395d5237b15502442b8ecc453397983d33e81cdf2c18a41eac7033a0f489cd797683cd6b0829aa3b73a166646714)
 
 ## How to Connect a Mouse to Your iPad
 
