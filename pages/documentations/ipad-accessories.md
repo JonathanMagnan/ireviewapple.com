@@ -90,7 +90,7 @@ Second, you can place it on the magnetic charging strip on the iPad Pro. A notif
 
 # How to charge Apple Pencil
 
-Before turning of, the Pencil will natyrally give you a charge warning. 
+Before turning of, the Pencil will naturally give you a charge warning. 
 Here are the different steps to charge each generation:
 
 ## First Generation
@@ -113,7 +113,7 @@ Here are the different steps to charge each generation:
 
 ```
 
-![](https://www.imore.com/sites/imore.com/files/styles/larger/public/field/image/2015/12/apple-pencil-charging-screens.jpg?itok=j3f9hN78)
+<img src="https://www.imore.com/sites/imore.com/files/styles/larger/public/field/image/2015/12/apple-pencil-charging-screens.jpg?itok=j3f9hN78" width="200">
  
 ## Second Generation 
 
