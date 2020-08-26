@@ -45,7 +45,7 @@ The night mode helps with better indoor shots, faster autofocus and overall shar
 
 # iPhone 11 Pro
 
-<img src="https://www.bell.ca/Styles/wireless/apple_iphone_11/iPhone_11_Pro_Max_Silver_lrg1.png" width="150">
+<img src="https://www.bell.ca/Styles/wireless/apple_iphone_11/iPhone_11_Pro_Max_Silver_lrg1.png" width="200">
 
 Essentially, the iPhone 11 and 11 Pro are 85% the exact same phone. 
 
@@ -57,7 +57,7 @@ The 3 cameras at the back of the phone offers 2x optical zoom, different size op
 
 # iPhone XR 
 
-<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1550795424612" width="150">
+<img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1550795424612" width="200">
 
 The iPhone XR remains a great value, especially if you want a bigger screen.
 
