@@ -1,4 +1,4 @@
-- [iPad](documentations/ipad-info.md)
-- [iPhone](iphone-info.md)
-- [TV](appletv-info.md)
-- [Watch](applewatch-info.md)
+- [iPad](documentations/ipad-info)
+- [iPhone](iphone-info)
+- [TV](appletv-info)
+- [Watch](applewatch-info)
