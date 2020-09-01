@@ -3,7 +3,7 @@
 - [Overview](ipads.md)
 - [Applications](ipad-applications.md)
 - Accessories
-	- [Accessories](ipad-accessories.md)
+	- [Pencil](ipad-pencil.md)
 	- [Keyboard](ipad-keyboard.md)
 	- [Mouse](ipad-mouse.md)
 - [Pricing](ipads-pricing.md)
