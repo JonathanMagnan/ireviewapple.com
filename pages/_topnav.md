@@ -1,1 +1,4 @@
-- [Apple Product](documentations/ipads.md)
+- [iPad](documentations/ipad-info.md)
+- [iPhone](iphone-info.md)
+- [TV](appletv-info.md)
+- [Watch](applewatch-info.md)
