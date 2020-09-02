@@ -21,7 +21,7 @@ You can create your own station on your iPhone or iPad by following these 4 step
 3. Select Create Station from the action menu that pops up.
 4. *Et voilà!* A new station based on your song selection will begin playing.
 
-<img src="https://images.macrumors.com/t/NGI29M8GCyVQaqCN-z59WKfv7ek=/800x0/filters:quality(90)/article-new/2019/02/create-a-radio-station-in-apple-music-1-800x772.jpg?lossy" width="200">
+<img src="https://images.macrumors.com/t/NGI29M8GCyVQaqCN-z59WKfv7ek=/800x0/filters:quality(90)/article-new/2019/02/create-a-radio-station-in-apple-music-1-800x772.jpg?lossy" width="300">
 
 ## On your Mac
 
@@ -32,5 +32,5 @@ You can create your own station on your Mac by following these 4 steps:
 3. Finally, cluck on the option Create Station.
 4. *Et voilà!* A new station based on your selection will begin playing.
 
-<img src="https://images.macrumors.com/t/VXdYznFQUPZ20a6c2IrVmktkL5w=/800x0/filters:quality(90)/article-new/2019/02/create-a-radio-station-in-apple-music-2-800x287.jpg?lossy" width="200">
+<img src="https://images.macrumors.com/t/VXdYznFQUPZ20a6c2IrVmktkL5w=/800x0/filters:quality(90)/article-new/2019/02/create-a-radio-station-in-apple-music-2-800x287.jpg?lossy" width="300">
 
