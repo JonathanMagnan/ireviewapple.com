@@ -1,6 +1,6 @@
 # Radio
 
-<img src="https://vectorified.com/images/apple-music-icon-png-15.png" width="300">
+<img src="https://vectorified.com/images/apple-music-icon-png-15.png" width="200">
 
 Radio plays a big role in Apple Music, with various stations listed by genre, local and international broadcasters. 
 
