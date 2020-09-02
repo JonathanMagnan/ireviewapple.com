@@ -41,7 +41,7 @@ to make sure you're getting the best recommendations, you can simply tap on the 
 
 ## Wake to Apple Music
 
-Waking up to a * intense noise* can be more aggressive. It is now possible to wake up to a familiar sound from any of the 60 million tracks available on Apple Music.  
+Waking up to an *intense noise* can be more aggressive. It is now possible to wake up to a familiar sound from any of the 60 million tracks available on Apple Music.  
 
 1. The first step will be to download the song 
 2. Then go to the Clock App
