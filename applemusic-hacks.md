@@ -7,6 +7,16 @@ http://www.iphonehacks.com/2017/04/apple-music-tips-tricks-iphone-gifs.html
 
 Apple is continuously improving its products. This is no exception for Apple Music. Here is a list of practical features that Apple offers.
 
+## Download songs offline
+
+If you are (or you are not) using your data, you can keep track of the songs that you wish to have in your playlist. 
+
+You can simple got in the music settings and turn on **Automatic Downloads**.
+
+This song will appear in your downloads. 
+
+<img src="https://i.pcmag.com/imagery/lineupitems/008anYFtN2d4QX2Hb3PTMdt.1577669952.fit_lim.fit_lim.size_800x99999.png" width="300">
+
 ## Edit the Queue
 
 Even if you decided to activate the shuffle mode, you could still keep track of the next song. 
@@ -17,17 +27,15 @@ To remove a song, swipe left and tap on Remove.
 
 <img src="https://9to5mac.com/wp-content/uploads/sites/6/2019/02/45CDE962-7C27-40C4-9959-862788604FB0.png" width="250">
 
-## Add to Library vs. Download
+## Siri 
 
-If you are (or you are not) using your data, you can keep track of the songs that you wish to have in your playlist. 
+As usual, Siri is always here for the rescue! 
 
-You can simple got in the music settings and turn on **Automatic Downloads**.
+As an Apple Music subscriber, you can use Siri as a personal DJ to control song playback, queue up songs, find song facts, add songs to your library, play your favorite playlists!
 
-This song will appear in your downloads. 
+<img src="https://www.iphonetricks.org/wp-content/uploads/2020/04/How-to-ask-Siri-for-a-song-if-you-only-know-some-lyrics.jpg" width="200">
 
-<img src="https://i.pcmag.com/imagery/lineupitems/008anYFtN2d4QX2Hb3PTMdt.1577669952.fit_lim.fit_lim.size_800x99999.png" width="300">
-
-## Suggestion from Apple
+## Suggestions from Apple
 
 The algorithms behind Apple music plays a significant role. It will suggest songs based on your playlist, genres, and artists. 
 
@@ -44,11 +52,3 @@ Waking up to a * intense noise* can be more aggressive. It is now possible to wa
 3. Finally, create or edit your alarm, and under the Sound, click on Pick a song.
 
 <img src="https://i.pcmag.com/imagery/lineupitems/05Od6dtvfEry7yDKPnv8M4h.1577669866.fit_lim.fit_lim.size_800x99999.png" width="300">
-
-## Siri 
-
-As usual, Siri is always here for the rescue! 
-
-As an Apple Music subscriber, you can use Siri as a personal DJ to control song playback, queue up songs, find song facts, add songs to your library, play your favorite playlists!
-
-<img src="https://www.iphonetricks.org/wp-content/uploads/2020/04/How-to-ask-Siri-for-a-song-if-you-only-know-some-lyrics.jpg" width="200">
