@@ -1,8 +1,4 @@
 
-http://www.iphonehacks.com/2017/04/apple-music-tips-tricks-iphone-gifs.html
-
----
-
 # Apple Music Hacks
 
 Apple is continuously improving its products. This is no exception for Apple Music. Here is a list of practical features that Apple offers.
@@ -15,7 +11,7 @@ You can simple got in the music settings and turn on **Automatic Downloads**.
 
 This song will appear in your downloads. 
 
-<img src="https://i.pcmag.com/imagery/lineupitems/008anYFtN2d4QX2Hb3PTMdt.1577669952.fit_lim.fit_lim.size_800x99999.png" width="300">
+<img src="https://i.pcmag.com/imagery/lineupitems/008anYFtN2d4QX2Hb3PTMdt.1577669952.fit_lim.fit_lim.size_800x99999.png" width="400">
 
 ## Edit the Queue
 
@@ -25,7 +21,7 @@ You can swipe up your now playing screen and see the next selection.
 
 To remove a song, swipe left and tap on Remove.
 
-<img src="https://9to5mac.com/wp-content/uploads/sites/6/2019/02/45CDE962-7C27-40C4-9959-862788604FB0.png" width="250">
+<img src="https://9to5mac.com/wp-content/uploads/sites/6/2019/02/45CDE962-7C27-40C4-9959-862788604FB0.png" width="350">
 
 ## Siri 
 
