@@ -29,7 +29,7 @@ As usual, Siri is always here for the rescue!
 
 As an Apple Music subscriber, you can use Siri as a personal DJ to control song playback, queue up songs, find song facts, add songs to your library, play your favorite playlists!
 
-<img src="https://www.iphonetricks.org/wp-content/uploads/2020/04/How-to-ask-Siri-for-a-song-if-you-only-know-some-lyrics.jpg" width="200">
+<img src="https://www.iphonetricks.org/wp-content/uploads/2020/04/How-to-ask-Siri-for-a-song-if-you-only-know-some-lyrics.jpg" width="300">
 
 ## Suggestions from Apple
 
