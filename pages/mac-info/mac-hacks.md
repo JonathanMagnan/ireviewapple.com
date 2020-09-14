@@ -33,7 +33,7 @@ AirDrop gives you the option to send documents, photos, videos and other media w
 2. An AirDrop finder window will open and select the appropriate option between "Contacts only" or "Everyone"
 3. One the nearby devices appear, drag files you want to share into the AirDrop window to share them instantly
 
-<img src=https://s1.pir.fm/pf/blog/articles/CCleaner-15-Mac-Hacks-Pic-5.png" witdh="200">
+<img src="https://s1.pir.fm/pf/blog/articles/CCleaner-15-Mac-Hacks-Pic-5.png" witdh="200">
 
 ## Sign PDFs in the Mail app
 
@@ -41,11 +41,11 @@ More and more documents are being signed digitaly. For that matter Apple develop
 
 First you will have to open the Preview app on your Mac and click on Markup Toolbar button.
 
-<img src="https://s1.pir.fm/pf/blog/articles/CCleaner-15-Mac-Hacks-Pic-1.png" width="150">
+<img src="https://s1.pir.fm/pf/blog/articles/CCleaner-15-Mac-Hacks-Pic-1.png" width="100">
 
 Once Markup toolbar is open, you can click on the Sign button
 
-<img src="https://s1.pir.fm/pf/blog/articles/CCleaner-15-Mac-Hacks-Pic-2.png" width=150">
+<img src="https://s1.pir.fm/pf/blog/articles/CCleaner-15-Mac-Hacks-Pic-2.png" width="100">
 
 ### Create your signature with your trackpad
 
@@ -83,4 +83,4 @@ Your Touch Bar will allow you to:
 - Record the entire screen
 - Record a portion of the screen
 
-<img src="https://help.apple.com/assets/5EF110D6680CE23B38350954/5EF110E3680CE23B3835095C/en_US/f49116f0e8677adca9a8e96d3f66ca88.png" width="250">
+<img src="https://help.apple.com/assets/5EF110D6680CE23B38350954/5EF110E3680CE23B3835095C/en_US/f49116f0e8677adca9a8e96d3f66ca88.png" width="500">
