@@ -19,11 +19,11 @@ You can also use the touchpad:
 
 The deifinition will pop and display all the languages in your normal Dictionary app.
 
-<img src="https://miro.medium.com/max/700/1*4aClj80Fe3_GzwQ2IPrQRg.png" width="200">
+<img src="https://miro.medium.com/max/700/1*4aClj80Fe3_GzwQ2IPrQRg.png" width="400">
 
 ## Access the dictionary from anywhere
 
-<img src="https://miro.medium.com/max/668/1*p4rSYZCegwKwHXRQwWoIaA.png" width="200">
+<img src="https://miro.medium.com/max/668/1*p4rSYZCegwKwHXRQwWoIaA.png" width="400">
 
 ## Airdrop files
 
