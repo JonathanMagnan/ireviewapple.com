@@ -20,7 +20,7 @@ You can register up to five fingerprints on the MacBook Air or MacBook Pro, with
 
 <img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-add-fingerprint-mac-01.jpg" width="400">
 
-## Nameing a fingerprint
+## To name a fingerprint
 
 If you are more than a user for the same Mac, it is possible to name your fingerprint so that you directly log into your session. 
 
