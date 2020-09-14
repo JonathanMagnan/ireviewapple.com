@@ -41,11 +41,11 @@ More and more documents are being signed digitaly. For that matter Apple develop
 
 First you will have to open the Preview app on your Mac and click on Markup Toolbar button.
 
-<img src="https://s1.pir.fm/pf/blog/articles/CCleaner-15-Mac-Hacks-Pic-1.png" width="300">
+<img src="https://s1.pir.fm/pf/blog/articles/CCleaner-15-Mac-Hacks-Pic-1.png" width="200">
 
 Once Markup toolbar is open, you can click on the Sign button
 
-<img src="https://s1.pir.fm/pf/blog/articles/CCleaner-15-Mac-Hacks-Pic-2.png" width=300">
+<img src="https://s1.pir.fm/pf/blog/articles/CCleaner-15-Mac-Hacks-Pic-2.png" width=200">
 
 ### Create your signature with your trackpad
 
