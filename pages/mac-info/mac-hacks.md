@@ -83,4 +83,4 @@ Your Touch Bar will allow you to:
 - Record the entire screen
 - Record a portion of the screen
 
-<img src="https://help.apple.com/assets/5EF110D6680CE23B38350954/5EF110E3680CE23B3835095C/en_US/f49116f0e8677adca9a8e96d3f66ca88.png" width="400">
+<img src="https://help.apple.com/assets/5EF110D6680CE23B38350954/5EF110E3680CE23B3835095C/en_US/f49116f0e8677adca9a8e96d3f66ca88.png" width="250">
