@@ -6,7 +6,7 @@ It is know as the built-in privacy system for unlocking your device and authoriz
 
 You can register up to five fingerprints on the MacBook Air or MacBook Pro, with a maximum of three fingerprints per user account.
 
-<img scr="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/11/macbook-pro-touch-id-screens.jpg" width="200">
+<img scr="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/11/macbook-pro-touch-id-screens.jpg" width="400">
 
 ## How to set the TouchID
 
@@ -14,11 +14,11 @@ You can register up to five fingerprints on the MacBook Air or MacBook Pro, with
 
 2. Second, Select the Touch ID icone
 
-<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-mac-setup-01.jpg" width="200">
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-mac-setup-01.jpg" width="400">
 
 3. The third step is to click on Add a fingerprint and enter your password
 
-<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-add-fingerprint-mac-01.jpg" width="200">
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-add-fingerprint-mac-01.jpg" width="400">
 
 ## Nameing a fingerprint
 
@@ -34,7 +34,7 @@ If you are more than a user for the same Mac, it is possible to name your finger
 
 5. Finally, press the return key to save it
 
-<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-rename-fingerprint-mac-01.jpg" width="200">
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-rename-fingerprint-mac-01.jpg" width="400">
 
 ## Deleting a fingerprint
 
@@ -48,7 +48,7 @@ It is also possible to *get rid* of extra fingerprints from other users.
 
 4. Enter your password and press the delete buttom to confirm
 
-<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-delete-fingerprint-mac-01.jpg" width="200">
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-delete-fingerprint-mac-01.jpg" width="400">
 
 ## Touch ID settings
 
@@ -62,4 +62,4 @@ That said, you can always control what the *tip of your finger* can do!
 
 3. Check or uncheck the options you prefer.
 
-<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-mac-customize-01.jpg" width="200">
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2019/05/touch-id-mac-customize-01.jpg" width="400">
