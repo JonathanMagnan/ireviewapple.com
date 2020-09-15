@@ -4,7 +4,7 @@ The touch Bar is one of the most friendly and time saver tool that your Mac can 
 
 What's more interesting about this cadget, is that you can easily personalize it. 
 
-Within a few clicks, your Touch Bar will be to your image, hence allowing you to potomize your time on your Mac.
+Within a few clicks, your Touch Bar will be to your image, hence allowing you to optimize your time on your Mac.
 
 <img src="https://9to5mac.com/wp-content/uploads/sites/6/2017/02/screen-shot-2017-02-07-at-13-04-51.png?resize=655,319" width="400">
 
