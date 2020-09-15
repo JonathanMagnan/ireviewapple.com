@@ -57,4 +57,3 @@ You can optomize your event by creating a specific **time frame**
 ## Mail
 
 ## Safari
-
