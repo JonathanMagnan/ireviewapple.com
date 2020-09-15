@@ -10,7 +10,9 @@ Within a few clicks, your Touch Bar will be to your image, hence allowing you to
 
 ## Quick Type
 
-Similar to the way suggestive type works on the iPhone and iPad, Quick Type will suggest words depending on what you are currently writing. It is contextual, so it will do things like look up contacts when you are in the CC field of an email. It has the following functions:
+Quick Type has been seen on iPhones and iPads as well. It will work similarly on your Mac by suggesting words depending on what you are currently writing. 
+
+It is contextual, so it will do things like look up contacts when you are in the CC field of an email. It has the following functions:
 
 - Predictive type
 - Emoji suggestions (in Messages)
