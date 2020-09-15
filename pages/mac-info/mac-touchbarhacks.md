@@ -24,5 +24,5 @@ When you receive a regular call or reached by FaceTime, you can use the Touch Ba
 
 ## Function keys
 
-<img src="https://www.macworld.co.uk/cmsdata/features/3648472/how_to_use_touch_bar_on_new_macbook_pro_function_keys_860_thumb.jpg" width="200">
+<img src="https://www.macworld.co.uk/cmsdata/features/3648472/how_to_use_touch_bar_on_new_macbook_pro_function_keys_860_thumb.jpg" width="500">
 
