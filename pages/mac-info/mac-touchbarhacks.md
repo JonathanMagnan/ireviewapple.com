@@ -20,8 +20,6 @@ It has the following functions:
 
 <img src="https://cdn.cultofmac.com/wp-content/uploads/2019/01/love-touchbar.jpg" width="400">
 
-## Finder
-
 ## Call and Facetime
 
 When you receive a regular call or your are being reached by FaceTime, you can use the Touch Bar to quickly accept or decline a call, simply by tapping a control on the panel.
@@ -30,15 +28,25 @@ If your iPhone is near by, it will also suggest you to take your call on your Ma
 
 <img src="https://images.techhive.com/images/article/2016/10/touch-bar-answering-a-call-100690210-large.jpg" width="400">
 
+## Calendar
+
+When you double-click the Calendar app to start a new event, the touch Bar will provide various features. 
+
+1. You can start by adding the **location** of your future event
+
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20create%20a%20new%20event%20.jpg" width="400">
+
+2. You can optomize your event by creating a specific **time frame**
+
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20click%20on%20time.jpg" width="400">
+
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20select%20all%20day.jpg" width="400">
+
+3. 
+
 ## Photos
 
 ## Mail
 
 ## Safari
-
-## Calendar
-
-## Function keys
-
-<img src="https://www.macworld.co.uk/cmsdata/features/3648472/how_to_use_touch_bar_on_new_macbook_pro_function_keys_860_thumb.jpg" width="500">
 
