@@ -36,12 +36,6 @@ You can start by adding the **location** of your future event
 
 <img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20create%20a%20new%20event%20.jpg" width="800">
 
-You can optomize your event by creating a specific **time frame**
-
-<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20click%20on%20time.jpg" width="800">
-
-<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20select%20all%20day.jpg" width="800">
-
 You can invite friends from you **contact list**
 
 <img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20click%20on%20invitees.jpg" width="800">
@@ -49,6 +43,14 @@ You can invite friends from you **contact list**
 You can **attache a document** to your even, **add a note** or a URL link
 
 <img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20add%20a%20note.jpg" width="800">
+
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20add%20an%20attachment.jpg" width="800">
+
+You can optomize your event by creating a specific **time frame**
+
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20click%20on%20time.jpg" width="800">
+
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20select%20all%20day.jpg" width="800">
 
 ## Photos
 
