@@ -1,5 +1,13 @@
 # Touch Bar Hacks
 
+The touch Bar is one of the most friendly and time saver tool that your Mac can offer you!
+
+What's more interesting about this cadget, is that you can easily personalize it. 
+
+Within a few clicks, your Touch Bar will be to your image, hence allowing you to potomize your time on your Mac.
+
+<img src="https://9to5mac.com/wp-content/uploads/sites/6/2017/02/screen-shot-2017-02-07-at-13-04-51.png?resize=655,319" width="200">
+
 ## Quick Type
 
 Similar to the way suggestive type works on the iPhone and iPad, Quick Type will suggest words depending on what you are currently writing. It is contextual, so it will do things like look up contacts when you are in the CC field of an email. It has the following functions:
