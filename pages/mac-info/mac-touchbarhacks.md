@@ -14,9 +14,9 @@ Quick Type has been seen on iPhones and iPads as well. It will work similarly on
 
 It has the following functions:
 
-- Predictive type
-- Emoji suggestions (in Messages)
-- Contacts suggestions (email, phone #, etc.)
+- Contacts suggestions
+- Predictive words
+- Suggest an Emoji related to words
 
 <img src="https://cdn.cultofmac.com/wp-content/uploads/2019/01/love-touchbar.jpg" width="400">
 
