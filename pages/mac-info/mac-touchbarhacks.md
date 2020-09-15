@@ -54,7 +54,7 @@ You can optomize your event by creating a specific **time frame**
 
 ## Photos
 
-<img src="https://help.apple.com/assets/5EF110D6680CE23B38350954/5EF110E3680CE23B3835095C/en_US/3aaef4fd34c88beb8da8ecf57648ddea.png" width="800">
+<img src="https://help.apple.com/assets/5EF110D6680CE23B38350954/5EF110E3680CE23B3835095C/en_US/3aaef4fd34c88beb8da8ecf57648ddea.png" width="700">
 
 ## Mail
 
