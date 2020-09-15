@@ -38,9 +38,9 @@ When you double-click the Calendar app to start a new event, the touch Bar will 
 
 2. You can optomize your event by creating a specific **time frame**
 
-<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20click%20on%20time.jpg" width="600">
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20click%20on%20time.jpg" width="700">
 
-<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20select%20all%20day.jpg" width="600">
+<img src="https://www.imore.com/sites/imore.com/files/styles/w830/public/field/image/2016/12/when%20you%20select%20all%20day.jpg" width="700">
 
 3. 
 
