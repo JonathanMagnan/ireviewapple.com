@@ -24,7 +24,11 @@ It has the following functions:
 
 ## Call and Facetime
 
-When you receive a regular call or reached by FaceTime, you can use the Touch Bar to quickly accept or decline a call, simply by tapping a control on the panel.
+When you receive a regular call or your are being reached by FaceTime, you can use the Touch Bar to quickly accept or decline a call, simply by tapping a control on the panel.
+
+If your iPhone is near by, it will also suggest you to take your call on your Mac!
+
+<img src="https://images.techhive.com/images/article/2016/10/touch-bar-answering-a-call-100690210-large.jpg" width="400">
 
 ## Photos
 
