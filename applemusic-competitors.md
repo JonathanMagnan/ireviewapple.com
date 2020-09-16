@@ -87,18 +87,22 @@ Cons:
 
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/23/35/96/233596c1-17e8-bf47-5019-b5dbd8169b0c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/320x0w.png" width="200">
 
+The free version of YouTube Music is simply their website that allows you to liste to any song you wish.
+Basically, you will still have to deal with the advertising and won't be able to play music without turning off your screen. 
+In order to be *free* from these annoying features, you can subscribe to the YouTube Premium app.
+
 ```
 Pros:
 
-- 
-- 
-- 
+- Download content for offline playback
+- Student rates available
+- Ad-free
 
 Cons:
 
-- 
-- 
-- 
+- Audio quality
+- Various subscription
+- Local file support is limited
 
 ```
 
