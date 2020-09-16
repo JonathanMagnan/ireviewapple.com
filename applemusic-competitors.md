@@ -64,7 +64,7 @@ Tidal is one of the most complete subscriptions you can get.
 
 It combines a music platform, exclusive albums and videos, as well as early access to concerts and sports events. 
 
-<img src="https://photos.prnewswire.com/prnfull/20150904/263788LOGO" width="">
+<img src="https://photos.prnewswire.com/prnfull/20150904/263788LOGO" width="200">
 
 ```
 Pros:
