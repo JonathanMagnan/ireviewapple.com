@@ -12,7 +12,7 @@ You create an personalize your own playlist that you can share and keep on any o
 
 <img src="https://www.01net.com/i/0/0/92a/a2f743ce5d1441920d9e4828870d0.jpg" width="200">
 
-Spotify is one of the most popular music streaming services(Yes, it is more popular than Apple Music)!
+Spotify is one of the most popular music streaming services *yup, it is more popular than Apple Music!
 
 Users will simply need to register to have access to one of the biggest variety of music.
 
