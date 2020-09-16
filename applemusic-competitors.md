@@ -2,6 +2,10 @@
 
 Streaming music is the most convenient way to listen to your favorite songs.
 
+However, by having your subscription, you can easily have access to your favorite songs, artists, and genres. 
+
+You create an personalize your own playlist that you can share and keep on any of your devices.
+
 [Subscription $9,99/month]()
 
 ## Spotify
