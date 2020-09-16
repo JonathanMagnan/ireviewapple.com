@@ -85,7 +85,7 @@ Cons:
 
 ## Youtube Music
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/23/35/96/233596c1-17e8-bf47-5019-b5dbd8169b0c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/320x0w.png" width="300">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/23/35/96/233596c1-17e8-bf47-5019-b5dbd8169b0c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/320x0w.png" width="200">
 
 ```
 Pros:
