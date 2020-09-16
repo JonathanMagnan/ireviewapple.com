@@ -10,9 +10,9 @@ Streaming music is the most convenient way to listen to your favorite songs.
 
 Spotify is one of the most popular music streaming services(Yes, it is more popular than Apple Music)!
 
-Users will simply need to register to have access to one of biggest varity of music.
+Users will simply need to register to have access to one of the biggest variety of music.
 
-The apps also includes new artists and propses a music discovery based on your preferences. 
+The apps also include new artists and proposes a music discovery based on your preferences. 
 
 ```
 Pros:
@@ -23,7 +23,7 @@ Pros:
 
 Cons:
 
-- Lack own lyrics features
+- Lack of lyrics features
 - Available in the limited number of countries
 - Limitations of use
 
@@ -35,9 +35,9 @@ Cons:
 
 <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052018/untitled-2_7.jpg?0BrO0Kelj.ygOe3l3dfn8o76IMDMdIug&itok=oBfGOq9c" width="200">
 
-Users can easily start an Amazon Music account via the Amazon Website. 
+Users can quickly start an Amazon Music account via the Amazon Website. 
 
-The subscrption is compatible on various cadgets as Android device, PC or Mac computer, Amazon Fire TV device, or Fire tablet.
+The subscription is compatible with various gadgets as Android device, PC or Mac computer, Amazon Fire TV device, or Fire tablet.
 
 However, the company made things complicated by offering two streaming services, instead of just one
 
@@ -50,7 +50,7 @@ Pros:
 
 Cons:
 
-- Not a big variety
+- Not a wide variety
 - Personalized playlist
 - Limitations of use
 
@@ -60,9 +60,9 @@ Cons:
 
 ## Tidal
 
-Tidal is one of the most complete subscription you can get. 
+Tidal is one of the most complete subscriptions you can get. 
 
-It combines music platform, exclusive albums and videos, as well as early access to concerts and sports events. 
+It combines a music platform, exclusive albums and videos, as well as early access to concerts and sports events. 
 
 <img src="https://photos.prnewswire.com/prnfull/20150904/263788LOGO" width="">
 
@@ -75,8 +75,8 @@ Pros:
 
 Cons:
 
-- Lack own lyrics features
-- Various subscrption
+- Lack of own lyrics features
+- Various subscription
 - Expensive
 
 ```
