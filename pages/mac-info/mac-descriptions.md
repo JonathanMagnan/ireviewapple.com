@@ -87,7 +87,7 @@ Cons
 
 [Staring Price: $2999](https://www.apple.com/xf/shop/buy-mac/macbook-pro/13-po)
 
-# iMac 27 Incb
+# iMac 27 Inch
 
 <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdKy8cP6YiDcR9nA5WhD5cdKSxwSFlTuuaK41WQYo9A9LgJzjdND0&usqp=CAc" width="300">
 
